@@ -17,7 +17,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 		click(factory.accountPage().orderbtn);
 		logger.info("user clicked on orders button");
-		Thread.sleep(5000);
+		
 
 	}
 
@@ -29,7 +29,7 @@ public class RetailOrderSteps extends CommonUtility {
 		Thread.sleep(1000);
 		click(factory.orderPage().orderDetail);
 		logger.info("user clicked on orders detail");
-		Thread.sleep(1000);
+		
 	}
 
    
@@ -37,7 +37,7 @@ public class RetailOrderSteps extends CommonUtility {
 	@When("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() throws InterruptedException {
 		click(factory.orderPage().cancelBtn);
-		Thread.sleep(5000);
+		
 	}
 
 	@When("User select the cancelation Reason {string}")
@@ -46,7 +46,7 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.orderPage().cancelReason);
 		Select select = new Select(factory.orderPage().cancelReason);
 		select.selectByVisibleText(string);
-		Thread.sleep(5000);
+		
 	}
 
 	@When("User click on Cancel Order button")
@@ -101,9 +101,9 @@ public void userClickOnReviewButton() {
 @When("User write Review headline {string} and {string}")
 public void userWriteReviewHeadlineAnd(String string, String string2) throws InterruptedException {
  sendText(factory.orderPage().reviewHeadline,string);
- Thread.sleep(5000);
+ 
  sendText(factory.orderPage().reviewMessage,string2);
- Thread.sleep(5000);
+
 }
 @When("User click Add your Review button")
 public void userClickAddYourReviewButton() {
@@ -112,6 +112,6 @@ logger.info("user confirms Reivew");
 }
 @Then("a review message should be displayed {string}")
 public void aReviewMessageShouldBeDisplayed(String string) {
-   
+	Assert.assertEquals(string, factory.orderPage().reviewAddedSuccessfullyMessage.getText());  
 }
 }

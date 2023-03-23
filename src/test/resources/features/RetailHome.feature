@@ -5,7 +5,7 @@ Feature: This feature is use for testing UI of Retail page
     When User click on Sign in option
     And User enter email 'ramin@gmail.com' and password 'Tek@123456'
     And User click on login button
-    And User should be logged in into Account
+    And User should be logged into the Account
 
   @searchProduct
   Scenario: Verify user can search a product

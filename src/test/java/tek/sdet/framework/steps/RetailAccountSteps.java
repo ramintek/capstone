@@ -66,7 +66,7 @@ public class RetailAccountSteps extends CommonUtility {
 		selectByVisibleText(factory.accountPage().stateDropDown, DataGeneratorUtility.data(addressInfo.get(0).get(6)));
 		sendText(factory.accountPage().zipCodeField, DataGeneratorUtility.data(addressInfo.get(0).get(7)));
 		logger.info("user filled the new address form with information provided in data table");
-		Thread.sleep(5000);
+		
 	}
 
 	@When("User click Add Your Address button")
@@ -151,7 +151,7 @@ public class RetailAccountSteps extends CommonUtility {
 		clearTextUsingSendKeys(factory.accountPage().expirationYearInput);
 		clearTextUsingSendKeys(factory.accountPage().securityCodeInput);
 		logger.info("user clicked on edit your card");
-		Thread.sleep(7000);
+		
 	}
 
 	@When("user edit information with below data")
@@ -196,7 +196,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("User click on edit address option")
 	public void userClickOnEditAddressOption() throws InterruptedException {
 		click(factory.accountPage().addressEditButton);
-		Thread.sleep(5000);
+		
 		clearTextUsingSendKeys(factory.accountPage().fullNameField);
 		clearTextUsingSendKeys(factory.accountPage().phoneNumberField);
 		clearTextUsingSendKeys(factory.accountPage().streetAddressField);
@@ -206,7 +206,7 @@ public class RetailAccountSteps extends CommonUtility {
 		clearTextUsingSendKeys(factory.accountPage().zipCodeField);
 		logger.info("all account fields have been cleared");
 
-		Thread.sleep(5000);
+		
 	}
 
 	@When("user fill new address form with below information")
@@ -215,16 +215,16 @@ public class RetailAccountSteps extends CommonUtility {
 		selectByVisibleText(factory.accountPage().country, DataGeneratorUtility.data(newAddressInfo.get(0).get(0)));
 		sendText(factory.accountPage().fullNameField, DataGeneratorUtility.data(newAddressInfo.get(0).get(1)));
 		sendText(factory.accountPage().phoneNumberField, DataGeneratorUtility.data(newAddressInfo.get(0).get(2)));
-		Thread.sleep(2000);
+		
 		sendText(factory.accountPage().streetAddressField, DataGeneratorUtility.data(newAddressInfo.get(0).get(3)));
-		Thread.sleep(2000);
+		
 		sendText(factory.accountPage().apartmentNumber, DataGeneratorUtility.data(newAddressInfo.get(0).get(4)));
 		sendText(factory.accountPage().cityField, DataGeneratorUtility.data(newAddressInfo.get(0).get(5)));
 		selectByVisibleText(factory.accountPage().stateDropDown,
 				DataGeneratorUtility.data(newAddressInfo.get(0).get(6)));
 		sendText(factory.accountPage().zipCodeField, DataGeneratorUtility.data(newAddressInfo.get(0).get(7)));
 		logger.info("user filled the new address form with information provided in data table");
-		Thread.sleep(5000);
+		
 	}
 
 	@When("User click update Your Address button")

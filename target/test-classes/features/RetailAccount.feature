@@ -5,7 +5,7 @@ Feature: Retail Application Account Feature
     When User click on Sign in option
     And User enter email 'ramin@gmail.com' and password 'Tek@123456'
     And User click on login button
-    And User should be logged in into Account
+    And User should be logged into the Account
 
   @updateProfile
   Scenario: Verify User can update Profile Information

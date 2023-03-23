@@ -45,6 +45,8 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement reviewMessage;
 	@FindBy(xpath="//button[@type='submit']")
 	public WebElement reviewSubmitBtn;
+	@FindBy(xpath = "//div[text()='Your review was added successfully']")
+	public WebElement reviewAddedSuccessfullyMessage;
 	
 }
     

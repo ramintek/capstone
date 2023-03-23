@@ -115,20 +115,20 @@ public class RetailSteps extends CommonUtility {
 	@Given("User search for an item {string}")
 	public void userSearchForAnItem(String string) throws InterruptedException {
 		sendText(factory.homePage().searchBar,string);
-	Thread.sleep(1000);
+
 	
 	}
 	@Given("User click on Search icon")
 	public void userClickOnSearchIcon() throws InterruptedException {
 		 click(factory.homePage().searchButton);
 		 logger.info("user clicked on Search icon");
-		Thread.sleep(1000);
+		
 	}
 	@Given("User click on item")
 	public void userClickOnItem() throws InterruptedException {
 	   click(factory.homePage().kasaOutdoorSmartPlug);
 	   logger.info("user clicked Kasa Outdoor Smart Plug");
-	   Thread.sleep(1000);
+	   
 	}
 	@Given("User select quantity {string}")
 	public void userSelectQuantity(String count) {
@@ -137,7 +137,7 @@ public class RetailSteps extends CommonUtility {
 	@Given("User click add to Cart button")
 	public void userClickAddToCartButton() throws InterruptedException {
 	   click(factory.homePage().addToCartBtn);
-	   Thread.sleep(1000);
+	   
 	}
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String count) throws InterruptedException {
@@ -172,7 +172,7 @@ public class RetailSteps extends CommonUtility {
 			sendText(factory.homePage().zipCodeField,DataGeneratorUtility.data(addressInfo2.get(0).get(7)));
 			click(factory.homePage().addAdressButton);
 			logger.info("user filled the new address form with information provided in data table");
-		Thread.sleep(2000);
+		
 		}
 
 		@Then("User click Add a credit card or Debit Card for Payment method")
@@ -203,7 +203,7 @@ public void userChangeTheCategoryToElectronics(String string) throws Interrupted
 	 Select select = new Select(factory.homePage().allDepartmentDropDown);
 		select.selectByVisibleText("Electronics");
 		
-		Thread.sleep(1000);
+		
 }
 //@Given("User search for item {string}")
 //public void userSearchsForItem(String string) throws InterruptedException {
