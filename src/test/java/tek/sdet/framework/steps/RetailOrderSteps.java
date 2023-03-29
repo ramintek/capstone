@@ -26,7 +26,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 		waitTillPresence(factory.accountPage().hideDetails);
 		click(factory.orderPage().hideDetails);
-		Thread.sleep(1000);
+		
 		click(factory.orderPage().orderDetail);
 		logger.info("user clicked on orders detail");
 		
@@ -105,7 +105,7 @@ public void userClickOnReviewButton() {
   logger.info("review button clicked");
 }
 @When("User write Review headline {string} and {string}")
-public void userWriteReviewHeadlineAnd(String string, String string2) throws InterruptedException {
+public void userWriteReviewHeadlineAnd(String string, String string2) {
  sendText(factory.orderPage().reviewHeadline,string);
  sendText(factory.orderPage().reviewMessage,string2);
 
@@ -116,7 +116,7 @@ click(factory.orderPage().reviewSubmitBtn);
 logger.info("user confirms Reivew");
 }
 @Then("a review message should be displayed {string}")
-public void aReviewMessageShouldBeDisplayed(String string) throws InterruptedException {
+public void aReviewMessageShouldBeDisplayed(String string)  {
 	waitTillPresence(factory.orderPage().reviewAddedSuccessfullyMessage);
 	Assert.assertEquals(string, factory.orderPage().reviewAddedSuccessfullyMessage.getText());  
      logger.info("user gets message that review was added");

@@ -202,7 +202,7 @@ public class RetailSteps extends CommonUtility {
 			selectByVisibleText(factory.homePage().expirationYearInput,(newCreditCardInfo.get(1).get(3)));
 			sendText(factory.homePage().securityCodeInput,(newCreditCardInfo.get(1).get(4)));
 			click(factory.homePage().accountSubmitBtn);
-			Thread.sleep(2000);
+			
 		}
 		@Then("User click on Place Your Order")
 		public void userClickOnPlaceYourOrder() {
