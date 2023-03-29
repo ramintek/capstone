@@ -1,4 +1,4 @@
-@all
+@test
 Feature: Retail Order Feature
 
   Background: 
