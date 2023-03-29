@@ -66,6 +66,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 @When("User click on Return Items button")
 public void userClickOnReturnItemsButton() {
+	waitTillPresence(factory.orderPage().returnButton);
     click(factory.orderPage().returnButton);
     logger.info("user clicked on return Button");
     
