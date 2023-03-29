@@ -47,7 +47,7 @@ Feature: Retail Application Account Feature
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4421615382155512 | John Smith |               7 |           2027 |          369 |
+      | 4421615382155513 | John Smith |               7 |           2027 |          369 |
     And User click on Add your card button
     Then A message should be displayed for added payment 'Payment Method added sucessfully'
 
@@ -81,6 +81,6 @@ Feature: Retail Application Account Feature
     When User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Tek@1234567      | Tek@123456  | Tek@1234566      |
+      | Tek@1234567      | Tek@123456  | Tek@123456      |
     And User click on Change Password button
     Then another message should be displayed 'Password Updated Successfully'
