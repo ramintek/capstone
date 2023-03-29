@@ -144,4 +144,10 @@ public class RetailAccountPage extends BaseSetup {
     public WebElement orderDetail;
 	@FindBy(xpath ="//*[@id='accountLink']")
 	public WebElement accountLink;
+	@FindBy(xpath="(//*[@class='text-blue-800 cursor-pointer hover:underline'])[2]")
+	 public WebElement removeBtn;
+	@FindBy(xpath="//*[@src='/images/visa.jpg']")
+	public WebElement creditCardRemoval;
+	@FindBy(xpath="//*[@class='account__payment__sub-text']")
+	public WebElement oldCreditCard;
 }

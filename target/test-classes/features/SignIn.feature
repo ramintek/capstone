@@ -1,4 +1,4 @@
-
+@allT
 Feature: TEK Retail Application SignIn feature
 
   Background: 
@@ -7,26 +7,26 @@ Feature: TEK Retail Application SignIn feature
 
   @signIn
   Scenario: Verify user can sign in into Retail Application
-    And User enter email 'ramin@gmail.com' and password 'Tek@123456'
+    And User enter email 'ramin@gmail.com' and password 'Tek@1234567'
     And User click on login button
     Then User should be logged into the Account
 
-  @signInMultiply
-  Scenario Outline: Verify user can sign in into Retail Application
-    And User enter email '<email>' and password '<password>'
-    And User click on login button
-    Then User should be logged into Account
+ # @signInMultiply
+  #Scenario Outline: Verify user can sign in into Retail Application
+  #  And User enter email '<email>' and password '<password>'
+  #  And User click on login button
+  #  Then User should be logged into Account
 
-    Examples: 
-      | email                     | password  |
-      | transformers@tekschool.us | Tek@12345 |
-      | phantom.test@gmail.com    | Tek@12345 |
+   # Examples: 
+    #  | email               | password   |
+     # | raminqas@gmail.com  | Tek@123456 |
+      #| raminqass@gmail.com | Tek@123456 |
 
- @newAccount
+  @newAccount
   Scenario: Verify user can create an acount into Retail Website
     And User click on Create New Account button
     And User fill the signUp information with below data
-      | name  | email           | password   | confirmPassword |
-      | ramin | raminqasss@gmail.com | Tek@123456 | Tek@123456      |
+      | name  | email                 | password   | confirmPassword |
+      | ramin | raminqasssss@gmail.com | Tek@123456 | Tek@123456      |
     And User click on SignUp button
     Then User should be logged into the Account

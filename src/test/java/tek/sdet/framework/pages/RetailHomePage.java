@@ -67,7 +67,7 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath = "//div[@class='sidebar_content-item']/span")
 	public List<WebElement> sideBarOptionElements;
 
-	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/img")
+	@FindBy(xpath = "//p[@class='products__name']")
 
 	public WebElement kasaOutdoorSmartPlug;
 
@@ -82,7 +82,7 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath="//*[@id = \"proceedBtn\"]")
 	public WebElement proceedToCheckOutBtn;
   
-	@FindBy(xpath="//*[@id = \"addAddressBtn\"]")
+	@FindBy(xpath="//*[@id = 'addAddressBtn']")
 	public WebElement addAdressButton;
 	@FindBy(xpath = "//select[@id='countryDropdown']")
 	public WebElement country;
@@ -139,4 +139,11 @@ public class RetailHomePage extends BaseSetup {
    public WebElement checkOutQuantity;
    @FindBy (xpath="//*[@id='orderLink']")
    public WebElement orderLink;
+   @FindBy(xpath="//*[@id='addressBtn']")
+	public WebElement addressbt;
+   @FindBy(xpath="//*[@class='cart__item-delete']")
+   public WebElement deleteCart;
+ @FindBy(xpath="//*[@class='account__btn-submit']")
+ public WebElement accountSubmitBtn;
+ 
 }

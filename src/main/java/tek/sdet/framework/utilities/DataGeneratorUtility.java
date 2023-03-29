@@ -19,6 +19,7 @@ public class DataGeneratorUtility {
 		Faker faker = new Faker();
 
 		String outPut = "";
+		
 		if (input.equals("firstName")) {
 			outPut = faker.name().firstName();
 		} else if (input.equals("lastName")) {
@@ -41,6 +42,14 @@ public class DataGeneratorUtility {
 			outPut = "United States";
 		}else if(input.equals("apt")) {
 			outPut = faker.address().secondaryAddress();
+		}else if(input.equals("cardNumber")) {
+			outPut = faker.number().digits(16);
+		}else if(input.equals("nameOnCard")) {
+			outPut = faker.name().fullName();
+//		}else if(input.equals("expirationMonth")) {
+//			 outPut =faker.number;
+//		}else if(input.equals("expirationYear")) {
+//			 outPut =faker.number().numberBetween(2023, 2042);
 		}
 
 		return outPut;

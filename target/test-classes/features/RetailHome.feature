@@ -1,9 +1,10 @@
+@allTest
 Feature: This feature is use for testing UI of Retail page
 
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'ramin@gmail.com' and password 'Tek@123456'
+    And User enter email 'ramin@gmail.com' and password 'Tek@1234567'
     And User click on login button
     And User should be logged into the Account
 
@@ -58,14 +59,14 @@ Feature: This feature is use for testing UI of Retail page
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User clicks Add a new address link for shipping address
-    And User fill new address form with below information
+    And User fills new address form with below information
       | country | fullName | PhoneNumber | StreetAddress | apt | city | state | zipCode |
-    And User click Add Your Address button
+    ##   And User click Add Your Address button
     And User click Add a credit card or Debit Card for Payment method
-    And User fill Debit or credit card information
-      | cardNumber       | nameOnCard    | expirationMonth | expirationYear | securityCode |
-      | 4123568794521542 | Shanta Bevins |               7 |           2029 |          143 |
-    And User click on Add your card button
+    And User fills Debit or credit card information
+      | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
+      |            |            |               5 |           2025 |          525 |
+    ## And User click on Add your card button
     And User click on Place Your Order
     Then order message should be displayed 'Order Placed, Thanks'
 

@@ -59,6 +59,9 @@ public class RetailOrderSteps extends CommonUtility {
 
 		Assert.assertEquals(string, factory.orderPage().confirmationMessage.getText());
 		logger.info("cancellation messager was displayed" + string);
+		click(factory.orderPage().orderLink);
+		click(factory.orderPage().buyAgain);
+		click(factory.orderPage().placeOrder);
 	}
 
 @When("User click on Return Items button")
@@ -92,6 +95,9 @@ public void aReturnMessageShouldBeDisplayed(String string) {
 
 	Assert.assertEquals(string, factory.orderPage().returnMessage.getText());
 	logger.info("return message is displayed" + string);
+	click(factory.orderPage().orderLink);
+	click(factory.orderPage().buyAgain);
+	click(factory.orderPage().placeOrder);
 }
 @When("User click on Review button")
 public void userClickOnReviewButton() {
@@ -101,7 +107,6 @@ public void userClickOnReviewButton() {
 @When("User write Review headline {string} and {string}")
 public void userWriteReviewHeadlineAnd(String string, String string2) throws InterruptedException {
  sendText(factory.orderPage().reviewHeadline,string);
- 
  sendText(factory.orderPage().reviewMessage,string2);
 
 }
@@ -111,7 +116,9 @@ click(factory.orderPage().reviewSubmitBtn);
 logger.info("user confirms Reivew");
 }
 @Then("a review message should be displayed {string}")
-public void aReviewMessageShouldBeDisplayed(String string) {
+public void aReviewMessageShouldBeDisplayed(String string) throws InterruptedException {
+	waitTillPresence(factory.orderPage().reviewAddedSuccessfullyMessage);
 	Assert.assertEquals(string, factory.orderPage().reviewAddedSuccessfullyMessage.getText());  
+     logger.info("user gets message that review was added");
 }
 }

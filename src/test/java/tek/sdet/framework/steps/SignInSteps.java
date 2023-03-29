@@ -40,6 +40,20 @@ public class SignInSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().accountLink));
 		logger.info("user is login into the account");
 	
+		
+		waitTillClickable(factory.homePage().cartButton);
+        click(factory.homePage().cartButton);
+        
+//        try {
+//			if (factory.homePage().deleteCart.isDisplayed())
+//				factory.homePage().deleteCart.click();
+//		} catch (Exception e) {
+////			// TODO Auto-generated catch block
+////			e.printStackTrace();
+//		}
+			
+        
+	
 	}
 	
 	@When("User click on Create New Account button")

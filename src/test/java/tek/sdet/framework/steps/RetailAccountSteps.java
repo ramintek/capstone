@@ -3,6 +3,8 @@ package tek.sdet.framework.steps;
 import java.util.List;
 
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
 import io.cucumber.datatable.DataTable;
@@ -22,17 +24,29 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("user clicked on Account option");
 	}
 
-	@When("User update Name {string} and Phone {string}")
-	public void userUpdateNameAndPhone(String nameValue, String phoneValue) {
+
+@When("User update Name and Phone")
+	public void userUpdateNameAndPhone(DataTable dataTable) throws InterruptedException {
+		List<List<String>> updatedName = dataTable.asLists(String.class);
 		clearTextUsingSendKeys(factory.accountPage().profileNameInputField);
-		sendText(factory.accountPage().profileNameInputField, nameValue);
 		clearTextUsingSendKeys(factory.accountPage().profilePhoneNumberField);
-		sendText(factory.accountPage().profilePhoneNumberField, phoneValue);
+		sendText(factory.accountPage().profileNameInputField,DataGeneratorUtility.data(updatedName.get(0).get(0))) ;
+//		clearTextUsingSendKeys(factory.accountPage().profilePhoneNumberField);
+		sendText(factory.accountPage().profilePhoneNumberField,DataGeneratorUtility.data(updatedName.get(0).get(1))) ;
 		logger.info("user updated Name and Phone values ");
+		Thread.sleep(2000);
+//	@When("User update Name {string} and Phone {string}")
+//	public void userUpdateNameAndPhone(String nameValue, String phoneValue) {
+//		clearTextUsingSendKeys(factory.accountPage().profileNameInputField);
+//		sendText(factory.accountPage().profileNameInputField, nameValue);
+//		clearTextUsingSendKeys(factory.accountPage().profilePhoneNumberField);
+//		sendText(factory.accountPage().profilePhoneNumberField, phoneValue);
+//		logger.info("user updated Name and Phone values ");
 	}
 
 	@When("User click on Update button")
 	public void userClickOnUpdateButton() {
+		waitTillPresence(factory.accountPage().profileUpdateButton);
 		click(factory.accountPage().profileUpdateButton);
 		logger.info("user clicked on Update button");
 	}
@@ -109,6 +123,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Add a payment method link")
 	public void userClickOnAddAPaymentMethodLink() {
+//		click(factory.accountPage().removeBtn);
 		click(factory.accountPage().addAPaymentMethod);
 		logger.info("user clicked on Add a payment method link");
 	}
@@ -142,10 +157,10 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() throws InterruptedException {
-		click(factory.accountPage().masterCard);
+		click(factory.accountPage().oldCreditCard);
 		click(factory.accountPage().editCardButton);
 		clearTextUsingSendKeys(factory.accountPage().cardNumberInput);
-		Thread.sleep(5000);
+
 		clearTextUsingSendKeys(factory.accountPage().nameOnCardInput);
 		clearTextUsingSendKeys(factory.accountPage().expirationMonthInput);
 		clearTextUsingSendKeys(factory.accountPage().expirationYearInput);
@@ -181,7 +196,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on remove option of card section")
 	public void userClickOnRemoveOptionOfCardSection() {
-		click(factory.accountPage().masterCard);
+		click(factory.accountPage().oldCreditCard);
 		logger.info("credit card removed and data empth");
 	}
 

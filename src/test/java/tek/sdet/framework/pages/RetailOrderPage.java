@@ -45,8 +45,16 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement reviewMessage;
 	@FindBy(xpath="//button[@type='submit']")
 	public WebElement reviewSubmitBtn;
-	@FindBy(xpath = "//div[text()='Your review was added successfully']")
+	@FindBy(xpath = "//div[contains(text(),'Your review was added successfully')]")
 	public WebElement reviewAddedSuccessfullyMessage;
-	
+	@FindBy(id="buyAgainBtn")
+	public WebElement buyAgain;
+	@FindBy(id="placeOrderBtn")
+	public WebElement placeOrder;
+	@FindBy(xpath="//*[@id=\"i6ijpm2\"]/div[1]/div[2]")
+	public WebElement reviewSuccess;
+	@FindBy(xpath="//*[@class='cart__item-delete']")
+	public WebElement deleteCart;
+	@FindBy(xpath="//*[@id='addressBtn']")
+			public WebElement addressbt;
 }
-    

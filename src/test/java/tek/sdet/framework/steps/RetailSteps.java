@@ -24,18 +24,20 @@ public class RetailSteps extends CommonUtility {
 	
 
 	@Given("User is on retail website")
-	public void userIsOnRetailWebsite() {
+	public void userIsOnRetailWebsite() throws InterruptedException {
 		String actualTitle = getTitle();
 		String expectedTitle = "React App";
 		Assert.assertEquals(actualTitle, expectedTitle);
 		Assert.assertTrue(isElementDisplayed(factory.homePage().tekSchoolLogo));
 		logger.info("user is on retail website");
 		logger.info("Actual Title " + actualTitle + " Equals " + " ExpectedTitle " + expectedTitle);
-
+       
+       
 	}
 
 	@When("User search for {string} product")
 	public void userSearchForProduct(String productValue) {
+	
 		sendText(factory.homePage().searchBar, productValue);
 		click(factory.homePage().searchButton);
 		logger.info("user searched for product " + productValue);
@@ -126,7 +128,8 @@ public class RetailSteps extends CommonUtility {
 	}
 	@Given("User click on item")
 	public void userClickOnItem() throws InterruptedException {
-	   click(factory.homePage().kasaOutdoorSmartPlug);
+		waitTillClickable(factory.homePage().kasaOutdoorSmartPlug);
+		click(factory.homePage().kasaOutdoorSmartPlug);
 	   logger.info("user clicked Kasa Outdoor Smart Plug");
 	   
 	}
@@ -136,7 +139,8 @@ public class RetailSteps extends CommonUtility {
 	}
 	@Given("User click add to Cart button")
 	public void userClickAddToCartButton() throws InterruptedException {
-	   click(factory.homePage().addToCartBtn);
+		waitTillClickable(factory.homePage().addToCartBtn);
+		click(factory.homePage().addToCartBtn);
 	   
 	}
 	@Then("the cart icon quantity should change to {string}")
@@ -158,10 +162,13 @@ public class RetailSteps extends CommonUtility {
 		    logger.info("customer taken to checkout page");
 		}
 		@Then("User clicks Add a new address link for shipping address")
-		public void userClicksAddANewAddressLinkForShippingAddress(DataTable dataTable) throws InterruptedException {
+		public void userClicksAddANewAddressLinkForShippingAddress() throws InterruptedException {
 		   click(factory.homePage().addAdressButton);
-		 
+		}
+		@Then("User fills new address form with below information") 
+		public void userFillsNewAddressFromWithBelowInformation(DataTable dataTable) throws InterruptedException {
 		   List<List<String>> addressInfo2 = dataTable.asLists(String.class);
+		
 			selectByVisibleText(factory.homePage().country,DataGeneratorUtility.data(addressInfo2.get(0).get(0)));
 			sendText(factory.homePage().fullNameField,DataGeneratorUtility.data(addressInfo2.get(0).get(1)));
 			sendText(factory.homePage().phoneNumberField,DataGeneratorUtility.data(addressInfo2.get(0).get(2)));
@@ -170,24 +177,37 @@ public class RetailSteps extends CommonUtility {
 			sendText(factory.homePage().cityField,DataGeneratorUtility.data(addressInfo2.get(0).get(5)));
 			selectByVisibleText(factory.homePage().stateDropDown,DataGeneratorUtility.data(addressInfo2.get(0).get(6)));
 			sendText(factory.homePage().zipCodeField,DataGeneratorUtility.data(addressInfo2.get(0).get(7)));
-			click(factory.homePage().addAdressButton);
+			click(factory.homePage().addressbt);
 			logger.info("user filled the new address form with information provided in data table");
-		
+		   Thread.sleep(2000);
 		}
 
 		@Then("User click Add a credit card or Debit Card for Payment method")
-		public void userClickAddACreditCardOrDebitCardForPaymentMethod(DataTable dataTable) {
-		   click(factory.homePage().addACreditCard);
+		public void userClickAddACreditCardOrDebitCardForPaymentMethod() {
+		   
+			click(factory.homePage().addACreditCard);
+		}
+		   
+		   @Then("User fills Debit or credit card  information")
+		   public void userFillsDebetOrCreditCardInformation(DataTable dataTable) throws InterruptedException {
 		   List<List<String>> newCreditCardInfo = dataTable.asLists(String.class);
-			sendText(factory.homePage().cardNumberInput,(newCreditCardInfo.get(1).get(0)));
-			sendText(factory.homePage().nameOnCardInput,(newCreditCardInfo.get(1).get(1)));
+		   sendText(factory.homePage().cardNumberInput,DataGeneratorUtility.data(newCreditCardInfo.get(0).get(0)));
+		   sendText(factory.homePage().nameOnCardInput,DataGeneratorUtility.data(newCreditCardInfo.get(0).get(1)));
+//		   selectByVisibleText(factory.homePage().expirationMonthInput,DataGeneratorUtility.data(newCreditCardInfo.get(0).get(2)));
+//		   selectByVisibleText(factory.homePage().expirationYearInput,DataGeneratorUtility.data(newCreditCardInfo.get(0).get(3)));
+//		   sendText(factory.homePage().securityCodeInput,DataGeneratorUtility.data(newCreditCardInfo.get(0).get(4)));
+			//sendText(factory.homePage().cardNumberInput,(newCreditCardInfo.get(1).get(0)));
+//			sendText(factory.homePage().nameOnCardInput,(newCreditCardInfo.get(1).get(1)));
 			selectByVisibleText(factory.homePage().expirationMonthInput,(newCreditCardInfo.get(1).get(2)));
 			selectByVisibleText(factory.homePage().expirationYearInput,(newCreditCardInfo.get(1).get(3)));
 			sendText(factory.homePage().securityCodeInput,(newCreditCardInfo.get(1).get(4)));
+			click(factory.homePage().accountSubmitBtn);
+			Thread.sleep(2000);
 		}
 		@Then("User click on Place Your Order")
 		public void userClickOnPlaceYourOrder() {
-		     click(factory.homePage().placeOrderButton);
+			waitTillPresence(factory.homePage().placeOrderButton);
+			click(factory.homePage().placeOrderButton);
 		     
 		}
         @Then("order message should be displayed {string}")
