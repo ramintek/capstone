@@ -53,5 +53,7 @@ public class RetailSignInPage extends BaseSetup {
 	public WebElement logoutButton;
 	@FindBy(xpath ="//*[@id='accountLink']")
 	public WebElement accountLink;
+	@FindBy(id = "cartBtn")
+	public WebElement cartButton;
 
 }

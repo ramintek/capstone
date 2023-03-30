@@ -41,8 +41,8 @@ public class SignInSteps extends CommonUtility {
 		logger.info("user is login into the account");
 	
 		
-		waitTillClickable(factory.homePage().cartButton);
-        click(factory.homePage().cartButton);
+		waitTillClickable(factory.signInPage().cartButton);
+        click(factory.signInPage().cartButton);
         
 //        try {
 //			if (factory.homePage().deleteCart.isDisplayed())
