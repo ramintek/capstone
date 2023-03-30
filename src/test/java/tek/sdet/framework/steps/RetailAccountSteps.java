@@ -131,7 +131,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("User fill Debit or credit card information")
 	public void userFillDebitOrCreditCardInformation(DataTable dataTable) {
 		List<List<String>> creditCardInfo = dataTable.asLists(String.class);
-		sendText(factory.accountPage().cardNumberInput, (creditCardInfo.get(1).get(0)));
+		sendText(factory.accountPage().cardNumberInput,DataGeneratorUtility.data(creditCardInfo.get(0).get(0)));
 		sendText(factory.accountPage().nameOnCardInput, (creditCardInfo.get(1).get(1)));
 		selectByVisibleText(factory.accountPage().expirationMonthInput, (creditCardInfo.get(1).get(2)));
 		selectByVisibleText(factory.accountPage().expirationYearInput, (creditCardInfo.get(1).get(3)));

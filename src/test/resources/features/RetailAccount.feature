@@ -4,34 +4,32 @@ Feature: Retail Application Account Feature
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'ramin@gmail.com' and password 'Tek@123456'
+    And User enter email 'ramin@gmail.com' and password 'Tek@1234567'
     And User click on login button
     And User should be logged into the Account
 
-
- @updateProfile
+  @updateProfile
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name and Phone 
-         |fullName|PhoneNumber|
+    And User update Name and Phone
+      | fullName | PhoneNumber |
     And User click on Update button
     Then User profile information should be updated
-#@updateProfile
+
+  #@updateProfile
   #Scenario: Verify User can update Profile Information
   #  When User click on Account option
   #  And User update Name 'Transformers' and Phone '99999999999'
   #  And User click on Update button
-   # Then User profile information should be updated
-
- ## @updatePassword
- # Scenario: Verify User can Update password
+  # Then User profile information should be updated
+  ## @updatePassword
+  # Scenario: Verify User can Update password
   #  When User click on Account option
-   # And User enter below information
+  # And User enter below information
   #    | previousPassword | newPassword | confirmPassword |
-   #   | Tek@123456      | Tek@1234567  | Tek@1234567      |
- #   And User click on Change Password button
+  #   | Tek@123456      | Tek@1234567  | Tek@1234567      |
+  #   And User click on Change Password button
   #  Then another message should be displayed 'Password Updated Successfully'
-
   @addAddress
   Scenario: Verify User can add  an Address
     When User click on Account option
@@ -46,8 +44,8 @@ Feature: Retail Application Account Feature
     When User click on Account option
     And User click on Add a payment method link
     And User fill Debit or credit card information
-      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4421615382155513 | John Smith |               7 |           2027 |          369 |
+      | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
+      |            | John Smith |               7 |           2027 |          369 |
     And User click on Add your card button
     Then A message should be displayed for added payment 'Payment Method added sucessfully'
 
@@ -75,12 +73,12 @@ Feature: Retail Application Account Feature
       | country | fullName | PhoneNumber | StreetAddress | apt | city | state | zipCode |
     And User click update Your Address button
     Then a message should be displayed 'Address Updated Successfully'
-    
-    @updatePassword
+
+  @updatePassword
   Scenario: Verify User can Update password
     When User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Tek@123456      | Tek@1234567  | Tek@1234567      |
+      | Tek@1234567       | Tek@123456 | Tek@123456     |
     And User click on Change Password button
     Then another message should be displayed 'Password Updated Successfully'

@@ -48,8 +48,8 @@ public class DataGeneratorUtility {
 			outPut = faker.name().fullName();
 //		}else if(input.equals("expirationMonth")) {
 //			 outPut =faker.number;
-//		}else if(input.equals("expirationYear")) {
-//			 outPut =faker.number().numberBetween(2023, 2042);
+		}else if(input.equals("cardNumber")) {
+			 outPut =faker.number().digits(16);
 		}
 
 		return outPut;
