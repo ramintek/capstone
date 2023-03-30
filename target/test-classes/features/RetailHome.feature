@@ -1,4 +1,4 @@
-@test
+@test2
 Feature: This feature is use for testing UI of Retail page
 
   Background: 

@@ -1,4 +1,4 @@
-@test
+@test1
 Feature: TEK Retail Application SignIn feature
 
   Background: 
