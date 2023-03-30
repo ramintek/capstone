@@ -6121,3 +6121,28 @@
 2023-03-29 09:38:12,973 [main] INFO logger_File - user clicked on Create New Account button
 2023-03-29 09:38:13,517 [main] INFO logger_File - user filled the signUp information form
 2023-03-29 09:38:13,586 [main] INFO logger_File - user clicked on SignUpForm button
+2023-03-29 21:17:10,858 [main] INFO logger_File - user is on retail website
+2023-03-29 21:17:10,867 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-29 21:17:11,060 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-29 21:17:11,346 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-29 21:17:11,451 [main] INFO logger_File - user clicked on login button
+2023-03-29 21:17:12,615 [main] INFO logger_File - user is login into the account
+2023-03-29 21:17:17,832 [main] INFO logger_File - user is on retail website
+2023-03-29 21:17:17,832 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-29 21:17:18,144 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-29 21:17:18,250 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-29 21:17:18,806 [main] INFO logger_File - user filled the signUp information form
+2023-03-29 21:17:18,891 [main] INFO logger_File - user clicked on SignUpForm button
+2023-03-29 21:19:39,547 [main] INFO logger_File - user is on retail website
+2023-03-29 21:19:39,556 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-29 21:19:39,770 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-29 21:19:40,408 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-29 21:19:40,508 [main] INFO logger_File - user clicked on login button
+2023-03-29 21:19:40,803 [main] INFO logger_File - user is login into the account
+2023-03-29 21:19:45,126 [main] INFO logger_File - user is on retail website
+2023-03-29 21:19:45,126 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-29 21:19:45,307 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-29 21:19:45,412 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-29 21:19:46,008 [main] INFO logger_File - user filled the signUp information form
+2023-03-29 21:19:46,107 [main] INFO logger_File - user clicked on SignUpForm button
+2023-03-29 21:19:46,394 [main] INFO logger_File - user is login into the account

@@ -27,6 +27,6 @@ Feature: TEK Retail Application SignIn feature
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name  | email                 | password   | confirmPassword |
-      | ramin | raminq1@gmail.com | Tek@123456 | Tek@123456      |
+      | ramin | raminq3@gmail.com | Tek@123456 | Tek@123456      |
     And User click on SignUp button
     Then User should be logged into the Account
