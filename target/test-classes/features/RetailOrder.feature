@@ -4,7 +4,7 @@ Feature: Retail Order Feature
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'ramin@gmail.com' and password 'Tek@1234567'
+    And User enter email 'ramin@gmail.com' and password 'Tek@123456'
     And User click on login button
     And User should be logged into the Account
     When User click on Orders section
