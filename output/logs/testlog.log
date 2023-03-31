@@ -7675,3 +7675,44 @@
 2023-03-30 22:17:30,589 - logger_File -INFO - review button clicked
 2023-03-30 22:17:31,008 - logger_File -INFO - user confirms Reivew
 2023-03-30 22:17:31,770 - logger_File -INFO - user gets message that review was added
+2023-03-31 06:21:57,345 - logger_File -INFO - user is on retail website
+2023-03-31 06:21:57,378 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-31 06:21:57,670 - logger_File -INFO - User clicked on Sign in Option
+2023-03-31 06:21:58,130 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@123456
+2023-03-31 06:21:58,278 - logger_File -INFO - user clicked on login button
+2023-03-31 06:21:58,553 - logger_File -INFO - user is login into the account
+2023-03-31 06:21:59,248 - logger_File -INFO - user clicked on orders button
+2023-03-31 06:21:59,630 - logger_File -INFO - user clicked on orders detail
+2023-03-31 06:22:55,536 - logger_File -INFO - user is on retail website
+2023-03-31 06:22:55,546 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-31 06:22:55,858 - logger_File -INFO - User clicked on Sign in Option
+2023-03-31 06:22:56,303 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@123456
+2023-03-31 06:22:56,443 - logger_File -INFO - user clicked on login button
+2023-03-31 06:22:56,701 - logger_File -INFO - user is login into the account
+2023-03-31 06:22:57,328 - logger_File -INFO - user clicked on orders button
+2023-03-31 06:22:57,713 - logger_File -INFO - user clicked on orders detail
+2023-03-31 06:22:58,506 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-03-31 06:23:05,603 - logger_File -INFO - user is on retail website
+2023-03-31 06:23:05,603 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-31 06:23:05,938 - logger_File -INFO - User clicked on Sign in Option
+2023-03-31 06:23:06,395 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@123456
+2023-03-31 06:23:06,537 - logger_File -INFO - user clicked on login button
+2023-03-31 06:23:06,867 - logger_File -INFO - user is login into the account
+2023-03-31 06:23:07,259 - logger_File -INFO - user clicked on orders button
+2023-03-31 06:23:08,362 - logger_File -INFO - user clicked on orders detail
+2023-03-31 06:23:08,566 - logger_File -INFO - user clicked on return Button
+2023-03-31 06:23:08,891 - logger_File -INFO - user selected reason for cancelation
+2023-03-31 06:23:09,186 - logger_File -INFO - User clicked on dropOff Location
+2023-03-31 06:23:09,334 - logger_File -INFO - user clicked on return 
+2023-03-31 06:23:09,441 - logger_File -INFO - return message is displayedReturn was successfull
+2023-03-31 06:23:16,069 - logger_File -INFO - user is on retail website
+2023-03-31 06:23:16,070 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-31 06:23:16,363 - logger_File -INFO - User clicked on Sign in Option
+2023-03-31 06:23:16,806 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@123456
+2023-03-31 06:23:16,953 - logger_File -INFO - user clicked on login button
+2023-03-31 06:23:17,375 - logger_File -INFO - user is login into the account
+2023-03-31 06:23:18,262 - logger_File -INFO - user clicked on orders button
+2023-03-31 06:23:18,616 - logger_File -INFO - user clicked on orders detail
+2023-03-31 06:23:18,783 - logger_File -INFO - review button clicked
+2023-03-31 06:23:19,471 - logger_File -INFO - user confirms Reivew
+2023-03-31 06:23:20,199 - logger_File -INFO - user gets message that review was added
