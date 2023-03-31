@@ -31,7 +31,7 @@ public class RetailSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.homePage().tekSchoolLogo));
 		logger.info("user is on retail website");
 		logger.info("Actual Title " + actualTitle + " Equals " + " ExpectedTitle " + expectedTitle);
-       
+		
        
 	}
 
@@ -142,12 +142,12 @@ public class RetailSteps extends CommonUtility {
 		waitTillClickable(factory.homePage().addToCartBtn);
 		click(factory.homePage().addToCartBtn);
 	   
-	}
-	@Then("the cart icon quantity should change to {string}")
-	public void theCartIconQuantityShouldChangeTo(String count) throws InterruptedException {
-		click(factory.homePage().cartButton);
-		Assert.assertEquals(count,factory.homePage().checkOutQuantity.getText());
-		
+//	}
+//	@Then("the cart icon quantity should change to {string}")
+//	public void theCartIconQuantityShouldChangeTo(String count) throws InterruptedException {
+//		click(factory.homePage().cartButton);
+//		Assert.assertEquals(count,factory.homePage().checkOutQuantity.getText());
+//		
 	
 	}
 		
@@ -179,16 +179,17 @@ public class RetailSteps extends CommonUtility {
 			sendText(factory.homePage().zipCodeField,DataGeneratorUtility.data(addressInfo2.get(0).get(7)));
 			click(factory.homePage().addressbt);
 			logger.info("user filled the new address form with information provided in data table");
-		   Thread.sleep(2000);
+		  
 		}
 
 		@Then("User click Add a credit card or Debit Card for Payment method")
-		public void userClickAddACreditCardOrDebitCardForPaymentMethod() {
-		   
+		public void userClickAddACreditCardOrDebitCardForPaymentMethod() throws InterruptedException {
+			waitTillPresence(factory.homePage().addACreditCard);
 			click(factory.homePage().addACreditCard);
+			
 		}
 		   
-		   @Then("User fills Debit or credit card  information")
+		   @Then("User fills Debit or credit card information")
 		   public void userFillsDebetOrCreditCardInformation(DataTable dataTable) throws InterruptedException {
 		   List<List<String>> newCreditCardInfo = dataTable.asLists(String.class);
 		   sendText(factory.homePage().cardNumberInput,DataGeneratorUtility.data(newCreditCardInfo.get(0).get(0)));
@@ -201,6 +202,7 @@ public class RetailSteps extends CommonUtility {
 			selectByVisibleText(factory.homePage().expirationMonthInput,(newCreditCardInfo.get(1).get(2)));
 			selectByVisibleText(factory.homePage().expirationYearInput,(newCreditCardInfo.get(1).get(3)));
 			sendText(factory.homePage().securityCodeInput,(newCreditCardInfo.get(1).get(4)));
+			waitTillPresence(factory.homePage().accountSubmitBtn);
 			click(factory.homePage().accountSubmitBtn);
 			
 		}

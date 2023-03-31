@@ -6330,3 +6330,1304 @@
 2023-03-29 22:19:44,790 [main] INFO logger_File - user clicked on Account option
 2023-03-29 22:19:46,413 [main] INFO logger_File - user updated entered information in the fields
 2023-03-29 22:19:46,694 [main] INFO logger_File - user clicked on change password button
+2023-03-30 00:18:55,829 [main] INFO logger_File - user is on retail website
+2023-03-30 00:18:55,839 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:18:56,028 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:18:56,397 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:18:56,516 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:18:56,805 [main] INFO logger_File - user is login into the account
+2023-03-30 00:18:57,115 [main] INFO logger_File - user is on retail website
+2023-03-30 00:18:57,115 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:18:57,417 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 00:18:57,551 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 00:19:02,187 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:02,188 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:02,350 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:02,709 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:02,855 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:03,123 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:03,453 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:03,456 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:03,584 [main] INFO logger_File - user clicked on All section
+2023-03-30 00:19:03,661 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 00:19:03,704 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 00:19:03,754 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 00:19:03,796 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 00:19:03,846 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 00:19:09,695 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:09,696 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:10,081 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:10,394 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:10,514 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:10,750 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:11,013 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:11,013 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:11,146 [main] INFO logger_File - user clicked on All section
+2023-03-30 00:19:11,370 [main] INFO logger_File - TV & Video is present 
+2023-03-30 00:19:11,444 [main] INFO logger_File - Video Games is present 
+2023-03-30 00:19:15,953 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:15,953 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:16,121 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:16,485 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:16,617 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:16,963 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:17,192 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:17,192 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:17,363 [main] INFO logger_File - user clicked on All section
+2023-03-30 00:19:17,570 [main] INFO logger_File - Accessories is present 
+2023-03-30 00:19:17,646 [main] INFO logger_File - Networking is present 
+2023-03-30 00:19:23,653 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:23,654 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:23,811 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:24,172 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:24,280 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:24,620 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:24,888 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:24,889 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:25,051 [main] INFO logger_File - user clicked on All section
+2023-03-30 00:19:25,271 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 00:19:25,342 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 00:19:29,642 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:29,642 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:30,027 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:30,374 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:30,483 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:30,723 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:30,989 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:30,989 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:31,112 [main] INFO logger_File - user clicked on All section
+2023-03-30 00:19:31,385 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 00:19:31,459 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 00:19:35,471 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:35,471 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:35,838 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:36,136 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:36,237 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:36,501 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:36,733 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:36,734 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:36,877 [main] INFO logger_File - user clicked on All section
+2023-03-30 00:19:37,140 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 00:19:37,215 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 00:19:41,778 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:41,778 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:41,921 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:42,302 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:42,410 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:42,857 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:43,585 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 00:19:43,801 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 00:19:49,073 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:49,074 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:49,249 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:49,606 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:49,733 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:50,192 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:50,937 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 00:19:51,347 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 00:19:57,248 [main] INFO logger_File - user is on retail website
+2023-03-30 00:19:57,252 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 00:19:57,660 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 00:19:57,980 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 00:19:58,089 [main] INFO logger_File - user clicked on login button
+2023-03-30 00:19:58,479 [main] INFO logger_File - user is login into the account
+2023-03-30 00:19:59,318 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 00:19:59,534 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:20:53,325 [main] INFO logger_File - user is on retail website
+2023-03-30 20:20:53,397 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:20:53,700 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:20:54,099 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:20:54,208 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:20:54,494 [main] INFO logger_File - user is login into the account
+2023-03-30 20:20:54,883 [main] INFO logger_File - user is on retail website
+2023-03-30 20:20:54,883 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:20:55,158 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:20:55,454 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:21:00,044 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:00,045 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:00,300 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:00,676 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:00,778 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:01,087 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:01,353 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:01,354 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:01,501 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:21:01,881 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:21:01,924 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:21:01,969 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:21:02,037 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:21:02,082 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:21:11,604 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:11,605 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:11,763 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:12,145 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:12,264 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:12,886 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:13,102 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:13,103 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:13,210 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:21:13,754 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:21:13,859 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:21:18,349 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:18,350 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:18,598 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:18,954 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:19,064 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:19,468 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:19,792 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:19,793 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:19,912 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:21:20,115 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:21:20,178 [main] INFO logger_File - Networking is present 
+2023-03-30 20:21:25,869 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:25,869 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:26,222 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:26,637 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:26,770 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:27,198 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:27,569 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:27,570 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:27,724 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:21:28,005 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:21:28,091 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:21:33,041 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:33,041 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:33,234 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:33,612 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:33,701 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:33,988 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:34,178 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:34,178 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:34,295 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:21:34,679 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:21:34,781 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:21:40,428 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:40,429 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:40,602 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:40,948 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:41,063 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:41,452 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:41,710 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:41,710 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:41,818 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:21:42,095 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:21:42,184 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:21:50,226 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:50,227 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:50,419 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:50,788 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:50,897 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:51,328 [main] INFO logger_File - user is login into the account
+2023-03-30 20:21:52,355 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:21:52,561 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:21:58,995 [main] INFO logger_File - user is on retail website
+2023-03-30 20:21:58,996 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:21:59,165 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:21:59,554 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:21:59,680 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:21:59,920 [main] INFO logger_File - user is login into the account
+2023-03-30 20:22:00,594 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:22:01,397 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:22:07,407 [main] INFO logger_File - user is on retail website
+2023-03-30 20:22:07,408 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:22:07,629 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:22:08,084 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:22:08,212 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:22:08,798 [main] INFO logger_File - user is login into the account
+2023-03-30 20:22:09,608 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:22:09,876 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:25:11,345 [main] INFO logger_File - user is on retail website
+2023-03-30 20:25:11,354 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:25:37,053 [main] INFO logger_File - user is on retail website
+2023-03-30 20:25:37,054 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:36,342 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:36,350 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:36,753 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:26:37,100 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:26:37,225 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:26:37,501 [main] INFO logger_File - user is login into the account
+2023-03-30 20:26:37,785 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:37,785 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:38,177 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:26:38,294 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:26:42,579 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:42,581 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:42,913 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:26:43,314 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:26:43,480 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:26:43,792 [main] INFO logger_File - user is login into the account
+2023-03-30 20:26:44,053 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:44,054 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:44,172 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:26:44,250 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:26:44,306 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:26:44,357 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:26:44,401 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:26:44,450 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:26:51,017 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:51,018 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:51,179 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:26:51,539 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:26:51,649 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:26:52,034 [main] INFO logger_File - user is login into the account
+2023-03-30 20:26:52,331 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:52,331 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:52,447 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:26:52,662 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:26:52,737 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:26:57,220 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:57,221 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:57,542 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:26:57,884 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:26:57,993 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:26:58,324 [main] INFO logger_File - user is login into the account
+2023-03-30 20:26:58,558 [main] INFO logger_File - user is on retail website
+2023-03-30 20:26:58,558 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:26:58,697 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:26:58,901 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:26:58,975 [main] INFO logger_File - Networking is present 
+2023-03-30 20:27:03,682 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:03,683 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:03,822 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:27:04,169 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:27:04,297 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:27:04,549 [main] INFO logger_File - user is login into the account
+2023-03-30 20:27:04,779 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:04,779 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:04,904 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:27:05,104 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:27:05,187 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:27:10,604 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:10,605 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:10,789 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:27:11,127 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:27:11,251 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:27:12,288 [main] INFO logger_File - user is login into the account
+2023-03-30 20:27:12,544 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:12,545 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:12,662 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:27:12,988 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:27:13,066 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:27:17,925 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:17,926 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:18,124 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:27:18,500 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:27:18,596 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:27:19,032 [main] INFO logger_File - user is login into the account
+2023-03-30 20:27:19,262 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:19,263 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:19,382 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:27:19,606 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:27:19,674 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:27:23,940 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:23,940 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:24,083 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:27:24,450 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:27:24,557 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:27:24,945 [main] INFO logger_File - user is login into the account
+2023-03-30 20:27:25,844 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:27:26,062 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:27:33,841 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:33,842 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:34,211 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:27:34,555 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:27:34,652 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:27:34,933 [main] INFO logger_File - user is login into the account
+2023-03-30 20:27:35,694 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:27:35,907 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:27:41,789 [main] INFO logger_File - user is on retail website
+2023-03-30 20:27:41,790 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:27:42,239 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:27:42,561 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:27:42,659 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:27:42,945 [main] INFO logger_File - user is login into the account
+2023-03-30 20:27:43,717 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:27:44,100 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:28:14,616 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:14,623 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:14,873 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:15,239 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:15,353 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:15,653 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:15,927 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:15,928 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:16,313 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:28:16,423 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:28:23,087 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:23,088 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:23,296 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:23,730 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:23,852 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:24,278 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:24,502 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:24,502 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:24,613 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:28:24,691 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:28:24,734 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:28:24,782 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:28:24,828 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:28:24,873 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:28:29,852 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:29,853 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:30,144 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:30,471 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:30,583 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:30,995 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:31,257 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:31,258 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:31,379 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:28:31,562 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:28:31,629 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:28:36,679 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:36,679 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:36,877 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:37,182 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:37,296 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:37,533 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:37,810 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:37,810 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:37,952 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:28:38,173 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:28:38,252 [main] INFO logger_File - Networking is present 
+2023-03-30 20:28:44,312 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:44,312 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:44,512 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:44,862 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:44,967 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:45,483 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:45,739 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:45,740 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:45,852 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:28:46,058 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:28:46,122 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:28:50,915 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:50,916 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:51,253 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:51,573 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:51,689 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:51,965 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:52,202 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:52,202 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:52,326 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:28:52,597 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:28:52,656 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:28:57,948 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:57,948 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:58,301 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:28:58,633 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:28:58,728 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:28:59,037 [main] INFO logger_File - user is login into the account
+2023-03-30 20:28:59,305 [main] INFO logger_File - user is on retail website
+2023-03-30 20:28:59,305 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:28:59,436 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:28:59,671 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:28:59,728 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:29:03,882 [main] INFO logger_File - user is on retail website
+2023-03-30 20:29:03,884 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:29:04,263 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:29:04,594 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:29:04,708 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:29:04,966 [main] INFO logger_File - user is login into the account
+2023-03-30 20:29:05,776 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:29:05,997 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:29:10,974 [main] INFO logger_File - user is on retail website
+2023-03-30 20:29:10,975 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:29:11,359 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:29:11,675 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:29:11,774 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:29:12,065 [main] INFO logger_File - user is login into the account
+2023-03-30 20:29:12,800 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:29:13,011 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:29:18,850 [main] INFO logger_File - user is on retail website
+2023-03-30 20:29:18,851 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:29:19,245 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:29:19,561 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:29:19,659 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:29:20,042 [main] INFO logger_File - user is login into the account
+2023-03-30 20:29:20,753 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:29:20,964 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:31:01,171 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:01,178 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:01,369 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:31:01,701 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:31:01,824 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:31:02,124 [main] INFO logger_File - user is login into the account
+2023-03-30 20:31:02,383 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:02,383 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:27,155 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:27,156 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:27,521 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:31:27,877 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:31:27,995 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:31:28,558 [main] INFO logger_File - user is login into the account
+2023-03-30 20:31:28,797 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:28,797 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:28,906 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:31:28,986 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:31:29,033 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:31:29,079 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:31:29,126 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:31:29,180 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:31:34,616 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:34,616 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:34,993 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:31:35,342 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:31:35,452 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:31:36,141 [main] INFO logger_File - user is login into the account
+2023-03-30 20:31:36,337 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:36,338 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:36,438 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:31:36,628 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:31:36,708 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:31:42,722 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:42,723 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:42,965 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:31:43,296 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:31:43,407 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:31:43,769 [main] INFO logger_File - user is login into the account
+2023-03-30 20:31:43,980 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:43,981 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:44,081 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:31:48,359 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:48,360 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:48,545 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:31:48,895 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:31:49,002 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:31:49,417 [main] INFO logger_File - user is login into the account
+2023-03-30 20:31:49,657 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:49,657 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:49,773 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:31:49,976 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:31:50,055 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:31:56,784 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:56,784 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:57,153 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:31:57,501 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:31:57,602 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:31:57,874 [main] INFO logger_File - user is login into the account
+2023-03-30 20:31:58,095 [main] INFO logger_File - user is on retail website
+2023-03-30 20:31:58,096 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:31:58,203 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:31:58,437 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:31:58,503 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:32:02,975 [main] INFO logger_File - user is on retail website
+2023-03-30 20:32:02,976 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:32:03,109 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:32:03,475 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:32:03,584 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:32:03,854 [main] INFO logger_File - user is login into the account
+2023-03-30 20:32:04,353 [main] INFO logger_File - user is on retail website
+2023-03-30 20:32:04,354 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:32:04,456 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:32:04,680 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:32:04,752 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:32:09,672 [main] INFO logger_File - user is on retail website
+2023-03-30 20:32:09,673 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:32:10,000 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:32:10,351 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:32:10,451 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:32:11,141 [main] INFO logger_File - user is login into the account
+2023-03-30 20:32:11,847 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:32:12,564 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:32:17,835 [main] INFO logger_File - user is on retail website
+2023-03-30 20:32:17,836 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:32:18,153 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:32:18,483 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:32:18,578 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:32:19,003 [main] INFO logger_File - user is login into the account
+2023-03-30 20:32:19,706 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:32:20,291 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:32:21,270 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:32:21,419 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:32:23,614 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 20:32:30,897 [main] INFO logger_File - user is on retail website
+2023-03-30 20:32:30,898 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:32:31,064 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:32:31,374 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:32:31,471 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:32:31,829 [main] INFO logger_File - user is login into the account
+2023-03-30 20:32:32,739 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:32:32,935 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:36:28,244 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:28,253 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:28,502 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:36:28,839 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:36:28,961 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:36:29,220 [main] INFO logger_File - user is login into the account
+2023-03-30 20:36:29,514 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:29,514 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:29,780 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:36:29,884 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:36:34,667 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:34,667 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:35,071 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:36:35,401 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:36:35,511 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:36:35,811 [main] INFO logger_File - user is login into the account
+2023-03-30 20:36:36,054 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:36,054 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:36,184 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:36:36,268 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:36:36,322 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:36:36,372 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:36:36,426 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:36:36,477 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:36:41,818 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:41,818 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:41,978 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:36:42,339 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:36:42,450 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:36:42,879 [main] INFO logger_File - user is login into the account
+2023-03-30 20:36:43,133 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:43,134 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:43,278 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:36:43,481 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:36:43,549 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:36:47,562 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:47,563 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:47,754 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:36:48,156 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:36:48,278 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:36:48,740 [main] INFO logger_File - user is login into the account
+2023-03-30 20:36:48,985 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:48,986 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:49,210 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:36:49,430 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:36:49,493 [main] INFO logger_File - Networking is present 
+2023-03-30 20:36:55,131 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:55,132 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:55,368 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:36:55,682 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:36:55,782 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:36:56,016 [main] INFO logger_File - user is login into the account
+2023-03-30 20:36:56,292 [main] INFO logger_File - user is on retail website
+2023-03-30 20:36:56,293 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:36:56,422 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:36:56,629 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:36:56,701 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:37:03,073 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:03,073 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:03,232 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:37:03,574 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:37:03,687 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:37:04,039 [main] INFO logger_File - user is login into the account
+2023-03-30 20:37:04,357 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:04,359 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:04,474 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:37:04,694 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:37:04,766 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:37:09,591 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:09,592 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:09,816 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:37:10,146 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:37:10,250 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:37:10,840 [main] INFO logger_File - user is login into the account
+2023-03-30 20:37:11,070 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:11,070 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:11,195 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:37:11,436 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:37:11,504 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:37:17,044 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:17,044 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:17,398 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:37:17,706 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:37:17,809 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:37:18,119 [main] INFO logger_File - user is login into the account
+2023-03-30 20:37:18,804 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:37:19,024 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:37:23,576 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:23,577 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:23,923 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:37:24,261 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:37:24,367 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:37:24,624 [main] INFO logger_File - user is login into the account
+2023-03-30 20:37:25,394 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:37:25,608 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:37:31,240 [main] INFO logger_File - user is on retail website
+2023-03-30 20:37:31,243 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:37:31,638 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:37:31,950 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:37:32,067 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:37:32,575 [main] INFO logger_File - user is login into the account
+2023-03-30 20:37:33,281 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:37:33,883 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:39:34,444 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:34,454 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:34,866 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:39:35,235 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:39:35,354 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:39:35,611 [main] INFO logger_File - user is login into the account
+2023-03-30 20:39:35,876 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:35,876 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:36,126 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:39:36,356 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:39:40,008 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:40,009 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:40,367 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:39:40,706 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:39:40,812 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:39:41,132 [main] INFO logger_File - user is login into the account
+2023-03-30 20:39:41,413 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:41,414 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:41,536 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:39:41,611 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:39:41,665 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:39:41,724 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:39:41,776 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:39:41,827 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:39:48,088 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:48,089 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:48,227 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:39:48,553 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:39:48,657 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:39:48,931 [main] INFO logger_File - user is login into the account
+2023-03-30 20:39:49,192 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:49,193 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:49,318 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:39:49,527 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:39:49,600 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:39:54,256 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:54,257 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:54,515 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:39:54,877 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:39:54,983 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:39:55,588 [main] INFO logger_File - user is login into the account
+2023-03-30 20:39:55,833 [main] INFO logger_File - user is on retail website
+2023-03-30 20:39:55,833 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:39:55,958 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:39:56,169 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:39:56,242 [main] INFO logger_File - Networking is present 
+2023-03-30 20:40:01,420 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:01,420 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:01,769 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:40:02,113 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:40:02,214 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:40:02,763 [main] INFO logger_File - user is login into the account
+2023-03-30 20:40:02,960 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:02,960 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:03,062 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:40:03,278 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:40:03,347 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:40:08,887 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:08,888 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:09,241 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:40:09,545 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:40:09,654 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:40:09,877 [main] INFO logger_File - user is login into the account
+2023-03-30 20:40:10,157 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:10,160 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:10,293 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:40:10,543 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:40:10,619 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:40:15,170 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:15,171 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:15,355 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:40:15,737 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:40:15,837 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:40:16,267 [main] INFO logger_File - user is login into the account
+2023-03-30 20:40:16,511 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:16,511 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:16,633 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:40:16,890 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:40:16,952 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:40:21,418 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:21,419 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:21,770 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:40:22,109 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:40:22,222 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:40:22,459 [main] INFO logger_File - user is login into the account
+2023-03-30 20:40:23,202 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:40:23,444 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:40:29,691 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:29,691 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:30,039 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:40:30,325 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:40:30,423 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:40:31,017 [main] INFO logger_File - user is login into the account
+2023-03-30 20:40:31,724 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:40:32,025 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:40:32,470 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:40:32,634 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:40:34,571 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 20:40:41,412 [main] INFO logger_File - user is on retail website
+2023-03-30 20:40:41,413 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:40:41,793 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:40:42,140 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:40:42,255 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:40:42,533 [main] INFO logger_File - user is login into the account
+2023-03-30 20:40:43,220 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:40:43,779 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:40:44,370 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:40:44,521 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:40:44,893 [main] INFO logger_File - order placed Message displayed
+2023-03-30 20:44:01,141 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:01,153 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:01,554 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:01,898 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:02,017 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:02,410 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:02,658 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:02,658 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:02,910 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:44:03,753 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:44:08,194 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:08,195 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:08,481 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:08,826 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:08,939 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:09,251 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:09,602 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:09,602 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:09,755 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:44:09,838 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:44:09,894 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:44:09,959 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:44:10,017 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:44:10,074 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:44:14,802 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:14,804 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:15,012 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:15,368 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:15,483 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:15,945 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:16,148 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:16,149 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:16,264 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:44:16,469 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:44:16,546 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:44:20,278 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:20,278 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:20,487 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:20,849 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:20,953 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:21,402 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:21,674 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:21,675 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:21,774 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:44:21,970 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:44:22,046 [main] INFO logger_File - Networking is present 
+2023-03-30 20:44:27,253 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:27,253 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:27,427 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:27,748 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:27,869 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:28,414 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:28,615 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:28,615 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:28,720 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:44:28,921 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:44:28,983 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:44:33,619 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:33,620 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:33,787 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:34,149 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:34,265 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:34,761 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:34,979 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:34,979 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:35,093 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:44:35,304 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:44:35,382 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:44:40,109 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:40,110 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:40,272 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:40,623 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:40,749 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:41,162 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:41,363 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:41,363 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:41,477 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:44:41,710 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:44:41,778 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:44:46,704 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:46,704 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:46,929 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:47,264 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:47,353 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:47,663 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:48,362 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:44:48,592 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:44:53,109 [main] INFO logger_File - user is on retail website
+2023-03-30 20:44:53,109 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:44:53,293 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:44:53,670 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:44:53,774 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:44:54,195 [main] INFO logger_File - user is login into the account
+2023-03-30 20:44:54,891 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:44:55,100 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:44:55,533 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:44:55,679 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:44:57,530 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 20:45:45,929 [main] INFO logger_File - user is on retail website
+2023-03-30 20:45:45,930 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:45:46,447 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:45:46,825 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:45:46,952 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:45:47,277 [main] INFO logger_File - user is login into the account
+2023-03-30 20:45:47,970 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:45:48,190 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:45:48,674 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:45:48,861 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:45:49,494 [main] INFO logger_File - order placed Message displayed
+2023-03-30 20:46:19,660 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:19,667 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:19,849 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:46:20,203 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:46:20,315 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:46:20,698 [main] INFO logger_File - user is login into the account
+2023-03-30 20:46:20,944 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:20,944 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:21,262 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:46:21,371 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:46:26,832 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:26,833 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:27,009 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:46:27,378 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:46:27,508 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:46:27,925 [main] INFO logger_File - user is login into the account
+2023-03-30 20:46:28,154 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:28,154 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:28,268 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:46:28,337 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:46:28,381 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:46:28,427 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:46:28,478 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:46:28,529 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:46:33,210 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:33,211 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:33,573 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:46:33,920 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:46:34,023 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:46:34,300 [main] INFO logger_File - user is login into the account
+2023-03-30 20:46:34,548 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:34,550 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:34,660 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:46:34,858 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:46:34,929 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:46:39,925 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:39,925 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:40,296 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:46:40,613 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:46:40,725 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:46:41,018 [main] INFO logger_File - user is login into the account
+2023-03-30 20:46:41,276 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:41,277 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:41,383 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:46:41,585 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:46:41,660 [main] INFO logger_File - Networking is present 
+2023-03-30 20:46:46,945 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:46,945 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:47,308 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:46:47,635 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:46:47,735 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:46:48,090 [main] INFO logger_File - user is login into the account
+2023-03-30 20:46:48,300 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:48,301 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:48,419 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:46:48,650 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:46:48,712 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:46:52,596 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:52,596 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:52,745 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:46:53,065 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:46:53,175 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:46:53,566 [main] INFO logger_File - user is login into the account
+2023-03-30 20:46:53,851 [main] INFO logger_File - user is on retail website
+2023-03-30 20:46:53,851 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:46:53,957 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:46:54,204 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:46:54,275 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:47:00,838 [main] INFO logger_File - user is on retail website
+2023-03-30 20:47:00,839 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:47:01,129 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:47:01,480 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:47:01,579 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:47:01,878 [main] INFO logger_File - user is login into the account
+2023-03-30 20:47:02,089 [main] INFO logger_File - user is on retail website
+2023-03-30 20:47:02,090 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:47:02,211 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:47:02,466 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:47:02,534 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:47:08,479 [main] INFO logger_File - user is on retail website
+2023-03-30 20:47:08,480 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:47:08,811 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:47:09,158 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:47:09,272 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:47:09,880 [main] INFO logger_File - user is login into the account
+2023-03-30 20:47:10,575 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:47:11,023 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:47:15,829 [main] INFO logger_File - user is on retail website
+2023-03-30 20:47:15,830 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:47:16,025 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:47:16,410 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:47:16,517 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:47:16,896 [main] INFO logger_File - user is login into the account
+2023-03-30 20:47:17,631 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:47:17,820 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:47:18,337 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:47:18,459 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:47:20,359 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 20:48:06,548 [main] INFO logger_File - user is on retail website
+2023-03-30 20:48:06,549 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:48:06,878 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:48:07,256 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:48:07,367 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:48:07,700 [main] INFO logger_File - user is login into the account
+2023-03-30 20:48:08,417 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:48:08,634 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:48:09,082 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:48:09,212 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:48:10,343 [main] INFO logger_File - order placed Message displayed
+2023-03-30 20:50:00,063 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:00,072 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:00,371 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:00,734 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:00,859 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:01,164 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:01,433 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:01,433 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:01,675 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 20:50:01,808 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 20:50:06,328 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:06,329 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:06,511 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:06,855 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:06,968 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:07,253 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:07,497 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:07,498 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:07,604 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:50:07,679 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 20:50:07,724 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 20:50:07,777 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 20:50:07,820 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 20:50:07,867 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 20:50:12,824 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:12,824 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:13,158 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:13,474 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:13,590 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:13,837 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:14,065 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:14,066 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:14,174 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:50:14,372 [main] INFO logger_File - TV & Video is present 
+2023-03-30 20:50:14,455 [main] INFO logger_File - Video Games is present 
+2023-03-30 20:50:18,889 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:18,890 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:19,266 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:19,572 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:19,680 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:19,960 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:20,272 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:20,273 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:20,372 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:50:20,565 [main] INFO logger_File - Accessories is present 
+2023-03-30 20:50:20,636 [main] INFO logger_File - Networking is present 
+2023-03-30 20:50:25,938 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:25,938 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:26,090 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:26,467 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:26,575 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:27,029 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:27,254 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:27,255 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:27,368 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:50:27,568 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 20:50:27,633 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 20:50:32,034 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:32,034 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:32,216 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:32,523 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:32,641 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:33,028 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:33,439 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:33,439 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:33,531 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:50:33,768 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 20:50:33,841 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 20:50:39,323 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:39,323 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:39,673 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:39,982 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:40,093 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:40,381 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:40,616 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:40,616 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:40,724 [main] INFO logger_File - user clicked on All section
+2023-03-30 20:50:40,947 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 20:50:41,012 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 20:50:45,394 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:45,395 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:45,629 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:45,968 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:46,068 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:46,387 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:47,039 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:50:47,266 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:50:53,711 [main] INFO logger_File - user is on retail website
+2023-03-30 20:50:53,713 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:50:53,857 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:50:54,218 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:50:54,338 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:50:54,672 [main] INFO logger_File - user is login into the account
+2023-03-30 20:50:55,429 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:50:55,870 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:50:56,441 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:50:56,583 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:50:58,540 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 20:51:04,770 [main] INFO logger_File - user is on retail website
+2023-03-30 20:51:04,773 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:51:04,986 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:51:05,316 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:51:05,432 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:51:05,907 [main] INFO logger_File - user is login into the account
+2023-03-30 20:51:06,565 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:51:06,781 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:51:07,351 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:51:07,501 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:51:08,118 [main] INFO logger_File - order placed Message displayed
+2023-03-30 20:53:57,986 [main] INFO logger_File - user is on retail website
+2023-03-30 20:53:57,992 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:53:58,232 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:53:58,570 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:53:58,692 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:53:58,977 [main] INFO logger_File - user is login into the account
+2023-03-30 20:53:59,702 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:53:59,942 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:54:00,420 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:54:00,569 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:54:02,603 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 20:58:54,157 [main] INFO logger_File - user is on retail website
+2023-03-30 20:58:54,166 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 20:58:54,400 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 20:58:54,805 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 20:58:54,917 [main] INFO logger_File - user clicked on login button
+2023-03-30 20:58:55,396 [main] INFO logger_File - user is login into the account
+2023-03-30 20:58:56,144 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 20:58:56,355 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 20:58:56,878 [main] INFO logger_File - cart button should be selected
+2023-03-30 20:58:57,022 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 20:58:58,982 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:01:33,070 [main] INFO logger_File - user is on retail website
+2023-03-30 21:01:33,078 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:01:33,278 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:01:33,640 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:01:33,753 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:01:34,029 [main] INFO logger_File - user is login into the account
+2023-03-30 21:01:34,795 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:01:35,016 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:01:35,497 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:01:35,640 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:01:37,615 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:08:15,091 [main] INFO logger_File - user is on retail website
+2023-03-30 21:08:15,099 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:08:15,483 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:08:15,834 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:08:15,951 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:08:16,235 [main] INFO logger_File - user is login into the account
+2023-03-30 21:08:17,066 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:08:17,297 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:08:17,815 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:08:17,972 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:08:19,956 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:14:57,170 [main] INFO logger_File - user is on retail website
+2023-03-30 21:14:57,177 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:14:57,420 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:14:57,767 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:14:57,878 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:14:58,196 [main] INFO logger_File - user is login into the account
+2023-03-30 21:14:58,962 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:14:59,402 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:14:59,926 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:15:00,071 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:15:02,167 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:17:17,739 [main] INFO logger_File - user is on retail website
+2023-03-30 21:17:17,748 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:17:18,061 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:17:18,413 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:17:18,528 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:17:18,818 [main] INFO logger_File - user is login into the account
+2023-03-30 21:17:19,633 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:17:19,886 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:17:20,401 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:17:20,541 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:17:22,604 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:18:28,095 [main] INFO logger_File - user is on retail website
+2023-03-30 21:18:28,101 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:18:28,290 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:18:28,658 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:18:28,783 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:18:29,078 [main] INFO logger_File - user is login into the account
+2023-03-30 21:18:29,842 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:18:30,484 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:18:32,859 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:18:33,013 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:18:35,127 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:22:59,575 [main] INFO logger_File - user is on retail website
+2023-03-30 21:22:59,586 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:22:59,795 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:23:00,183 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:23:00,309 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:23:00,662 [main] INFO logger_File - user is login into the account
+2023-03-30 21:23:01,436 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:23:01,685 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:23:02,192 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:23:02,349 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:23:04,395 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:29:33,431 [main] INFO logger_File - user is on retail website
+2023-03-30 21:29:33,436 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:29:33,612 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:29:33,867 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:29:33,947 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:29:34,312 [main] INFO logger_File - user is login into the account
+2023-03-30 21:29:34,988 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:29:35,665 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:29:36,109 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:29:36,257 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:29:38,081 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:31:53,426 [main] INFO logger_File - user is on retail website
+2023-03-30 21:31:53,435 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:31:53,614 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:31:53,923 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:31:54,003 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:31:54,365 [main] INFO logger_File - user is login into the account
+2023-03-30 21:31:54,933 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:31:55,113 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:31:55,497 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:31:55,599 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:31:57,046 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:39:23,721 [main] INFO logger_File - user is on retail website
+2023-03-30 21:39:23,727 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:39:23,879 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:39:24,160 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:39:24,249 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:39:24,568 [main] INFO logger_File - user is login into the account
+2023-03-30 21:39:25,136 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:39:25,396 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:39:25,999 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:39:26,116 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:39:27,569 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:39:31,613 [main] INFO logger_File - order placed Message displayed
+2023-03-30 21:40:00,677 [main] INFO logger_File - user is on retail website
+2023-03-30 21:40:00,683 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:40:00,989 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:40:01,257 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:40:01,340 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:40:01,582 [main] INFO logger_File - user is login into the account
+2023-03-30 21:40:02,101 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:40:02,288 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:40:02,727 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:40:02,842 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:40:04,297 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:40:08,473 [main] INFO logger_File - order placed Message displayed
+2023-03-30 21:41:01,203 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:01,214 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:01,421 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:01,728 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:01,819 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:02,132 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:02,301 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:02,301 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:02,466 [main] INFO logger_File - user searched for product pokemon
+2023-03-30 21:41:02,989 [main] INFO logger_File - the Product is displayed on home page
+2023-03-30 21:41:06,807 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:06,808 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:07,090 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:07,330 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:07,408 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:07,646 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:07,823 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:07,823 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:07,902 [main] INFO logger_File - user clicked on All section
+2023-03-30 21:41:07,952 [main] INFO logger_File - Electronics is equal to Electronics
+2023-03-30 21:41:07,985 [main] INFO logger_File - Computers is equal to Computers
+2023-03-30 21:41:08,018 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-03-30 21:41:08,052 [main] INFO logger_File - Sports is equal to Sports
+2023-03-30 21:41:08,087 [main] INFO logger_File - Automative is equal to Automative
+2023-03-30 21:41:11,998 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:11,998 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:12,292 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:12,536 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:12,606 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:12,840 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:13,008 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:13,009 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:13,089 [main] INFO logger_File - user clicked on All section
+2023-03-30 21:41:13,236 [main] INFO logger_File - TV & Video is present 
+2023-03-30 21:41:13,293 [main] INFO logger_File - Video Games is present 
+2023-03-30 21:41:16,794 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:16,794 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:16,940 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:17,189 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:17,288 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:17,574 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:17,760 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:17,760 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:17,842 [main] INFO logger_File - user clicked on All section
+2023-03-30 21:41:17,986 [main] INFO logger_File - Accessories is present 
+2023-03-30 21:41:18,031 [main] INFO logger_File - Networking is present 
+2023-03-30 21:41:22,936 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:23,257 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:23,379 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:23,634 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:23,707 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:23,955 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:24,129 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:24,129 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:24,217 [main] INFO logger_File - user clicked on All section
+2023-03-30 21:41:24,378 [main] INFO logger_File - Smart Home Lightning is present 
+2023-03-30 21:41:24,426 [main] INFO logger_File - Plugs and Outlets is present 
+2023-03-30 21:41:29,201 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:29,201 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:29,362 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:29,625 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:29,715 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:30,034 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:30,197 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:30,197 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:30,272 [main] INFO logger_File - user clicked on All section
+2023-03-30 21:41:30,432 [main] INFO logger_File - Athletic Clothing is present 
+2023-03-30 21:41:30,485 [main] INFO logger_File - Exercise & Fitness is present 
+2023-03-30 21:41:33,730 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:33,731 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:33,890 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:34,134 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:34,207 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:34,698 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:34,871 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:34,872 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:34,941 [main] INFO logger_File - user clicked on All section
+2023-03-30 21:41:35,116 [main] INFO logger_File - Automative Parts & Accessories is present 
+2023-03-30 21:41:35,173 [main] INFO logger_File - MotorCycle & Powersports is present 
+2023-03-30 21:41:41,339 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:41,340 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:41,496 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:41,755 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:41,828 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:42,128 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:42,617 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:41:42,793 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:41:48,618 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:48,619 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:48,897 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:49,137 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:49,215 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:49,446 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:49,993 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:41:50,165 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:41:50,512 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:41:50,617 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:41:52,025 [main] INFO logger_File - user filled the new address form with information provided in data table
+2023-03-30 21:41:53,224 [main] INFO logger_File - order placed Message displayed
+2023-03-30 21:41:56,840 [main] INFO logger_File - user is on retail website
+2023-03-30 21:41:56,842 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-30 21:41:57,165 [main] INFO logger_File - User clicked on Sign in Option
+2023-03-30 21:41:57,421 [main] INFO logger_File - user entered email ramin@gmail.com and password Tek@123456
+2023-03-30 21:41:57,488 [main] INFO logger_File - user clicked on login button
+2023-03-30 21:41:57,755 [main] INFO logger_File - user is login into the account
+2023-03-30 21:41:58,216 [main] INFO logger_File - user clicked on Search icon
+2023-03-30 21:41:58,390 [main] INFO logger_File - user clicked Kasa Outdoor Smart Plug
+2023-03-30 21:41:58,776 [main] INFO logger_File - cart button should be selected
+2023-03-30 21:41:58,883 [main] INFO logger_File - customer taken to checkout page
+2023-03-30 21:41:59,214 [main] INFO logger_File - order placed Message displayed
