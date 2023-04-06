@@ -9,6 +9,14 @@ Feature: Retail Order Feature
     And User should be logged into the Account
     When User click on Orders section
     And User click on first order in list
+  
+    @reviewOrder
+  Scenario: Verify User can write a review on order placed
+    And User click on Review button
+    And User write Review headline 'made in pakistan' and 'dont buy bad Quality'
+    And User click Add your Review button
+    Then a review message should be displayed 'Your review was added successfully'
+    
 
   @cancelOrder
   Scenario: Verify User can cancel the order
@@ -25,9 +33,3 @@ Feature: Retail Order Feature
     And User click on Return Order button
     Then a return message should be displayed 'Return was successfull'
 
-  @reviewOrder
-  Scenario: Verify User can write a review on order placed
-    And User click on Review button
-    And User write Review headline 'made in pakistan' and 'dont buy bad Quality'
-    And User click Add your Review button
-    Then a review message should be displayed 'Your review was added successfully'
