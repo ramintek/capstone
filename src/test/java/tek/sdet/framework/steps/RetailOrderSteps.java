@@ -36,6 +36,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() throws InterruptedException {
+		waitTillPresence(factory.orderPage().cancelBtn);
 		click(factory.orderPage().cancelBtn);
 		
 	}
