@@ -40,7 +40,6 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.orderPage().cancelBtn);
 		
 	}
-
 	@When("User select the cancelation Reason {string}")
 	public void userSelectTheCancelationReason(String string) throws InterruptedException {
 
@@ -67,7 +66,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 @When("User click on Return Items button")
 public void userClickOnReturnItemsButton() {
-	waitTillPresence(factory.orderPage().returnButton);
+//	waitTillPresence(factory.orderPage().returnButton);
     click(factory.orderPage().returnButton);
     logger.info("user clicked on return Button");
     
