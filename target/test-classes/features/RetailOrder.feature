@@ -10,6 +10,12 @@ Feature: Retail Order Feature
     When User click on Orders section
     And User click on first order in list
   
+  @cancelOrder
+  Scenario: Verify User can cancel the order
+    And User click on Cancel The Order button
+    And User select the cancelation Reason 'Bought wrong item'
+    And User click on Cancel Order button
+    Then a cancelation message should be displayed 'Your Order Has Been Cancelled'
     @reviewOrder
   Scenario: Verify User can write a review on order placed
     And User click on Review button
@@ -18,12 +24,7 @@ Feature: Retail Order Feature
     Then a review message should be displayed 'Your review was added successfully'
     
 
-  @cancelOrder
-  Scenario: Verify User can cancel the order
-    And User click on Cancel The Order button
-    And User select the cancelation Reason 'Bought wrong item'
-    And User click on Cancel Order button
-    Then a cancelation message should be displayed 'Your Order Has Been Cancelled'
+ 
 
   @returnOrder
   Scenario: Verify User can Return the order
