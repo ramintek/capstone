@@ -150,4 +150,5 @@ public class RetailAccountPage extends BaseSetup {
 	public WebElement creditCardRemoval;
 	@FindBy(xpath="//*[@class='account__payment__sub-text']")
 	public WebElement oldCreditCard;
+	
 }

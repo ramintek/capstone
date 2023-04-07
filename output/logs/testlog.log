@@ -7956,3 +7956,1306 @@
 2023-04-05 23:37:16,547 - logger_File -INFO - User clicked on dropOff Location
 2023-04-05 23:37:16,647 - logger_File -INFO - user clicked on return 
 2023-04-05 23:37:16,734 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 00:09:55,133 - logger_File -INFO - user is on retail website
+2023-04-06 00:09:55,139 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:09:55,332 - logger_File -INFO - user searched for product pokemon
+2023-04-06 00:09:55,703 - logger_File -INFO - the Product is displayed on home page
+2023-04-06 00:10:03,957 - logger_File -INFO - user is on retail website
+2023-04-06 00:10:03,957 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:10:04,099 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:10:04,355 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@123456
+2023-04-06 00:10:04,438 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:01,105 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:01,111 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:01,304 - logger_File -INFO - user searched for product pokemon
+2023-04-06 00:13:02,827 - logger_File -INFO - the Product is displayed on home page
+2023-04-06 00:13:11,554 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:11,555 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:11,680 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:13:11,944 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:13:12,024 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:12,555 - logger_File -INFO - user is login into the account
+2023-04-06 00:13:12,854 - logger_File -INFO - user clicked on Account option
+2023-04-06 00:13:14,372 - logger_File -INFO - user updated Name and Phone values 
+2023-04-06 00:13:16,491 - logger_File -INFO - user clicked on Update button
+2023-04-06 00:13:17,315 - logger_File -INFO - user profile information updated
+2023-04-06 00:13:21,195 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:21,196 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:21,329 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:13:21,566 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:13:21,659 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:22,058 - logger_File -INFO - user is login into the account
+2023-04-06 00:13:22,366 - logger_File -INFO - user clicked on Account option
+2023-04-06 00:13:22,486 - logger_File -INFO - user clicked on Add address option
+2023-04-06 00:13:23,642 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-04-06 00:13:23,742 - logger_File -INFO - user clicked on Add your Address button
+2023-04-06 00:13:24,649 - logger_File -INFO - message for added adress is displayed 
+2023-04-06 00:13:29,832 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:29,834 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:29,978 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:13:30,224 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:13:30,299 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:30,754 - logger_File -INFO - user is login into the account
+2023-04-06 00:13:31,038 - logger_File -INFO - user clicked on Account option
+2023-04-06 00:13:31,143 - logger_File -INFO - user clicked on Add a payment method link
+2023-04-06 00:13:31,741 - logger_File -INFO - account updated 
+2023-04-06 00:13:31,826 - logger_File -INFO - user enterd new card information
+2023-04-06 00:13:32,393 - logger_File -INFO - message is displayed
+2023-04-06 00:13:38,248 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:38,248 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:38,377 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:13:38,621 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:13:38,691 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:39,243 - logger_File -INFO - user is login into the account
+2023-04-06 00:13:39,507 - logger_File -INFO - user clicked on Account option
+2023-04-06 00:13:42,429 - logger_File -INFO - user clicked on edit your card
+2023-04-06 00:13:42,880 - logger_File -INFO - user clicked on update your card
+2023-04-06 00:13:43,831 - logger_File -INFO - message payment method updated successfully
+2023-04-06 00:13:50,148 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:50,148 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:50,283 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:13:50,526 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:13:50,599 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:50,902 - logger_File -INFO - user is login into the account
+2023-04-06 00:13:51,153 - logger_File -INFO - user clicked on Account option
+2023-04-06 00:13:52,029 - logger_File -INFO - credit card removed and data empth
+2023-04-06 00:13:52,075 - logger_File -INFO - card has been Removed
+2023-04-06 00:13:58,724 - logger_File -INFO - user is on retail website
+2023-04-06 00:13:58,724 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:13:58,853 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:13:59,125 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:13:59,202 - logger_File -INFO - user clicked on login button
+2023-04-06 00:13:59,640 - logger_File -INFO - user is login into the account
+2023-04-06 00:13:59,908 - logger_File -INFO - user clicked on Account option
+2023-04-06 00:14:00,947 - logger_File -INFO - all account fields have been cleared
+2023-04-06 00:14:01,680 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-04-06 00:14:01,786 - logger_File -INFO - user clicked updated your address button
+2023-04-06 00:14:02,865 - logger_File -INFO - address updated validation message displayed
+2023-04-06 00:14:10,342 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:10,342 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:10,470 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:10,725 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:10,805 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:11,111 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:11,260 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:11,260 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:11,429 - logger_File -INFO - user searched for product pokemon
+2023-04-06 00:14:11,819 - logger_File -INFO - the Product is displayed on home page
+2023-04-06 00:14:16,378 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:16,378 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:16,510 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:16,806 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:16,876 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:17,192 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:17,345 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:17,346 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:17,423 - logger_File -INFO - user clicked on All section
+2023-04-06 00:14:17,467 - logger_File -INFO - Electronics is equal to Electronics
+2023-04-06 00:14:17,498 - logger_File -INFO - Computers is equal to Computers
+2023-04-06 00:14:17,527 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-04-06 00:14:17,555 - logger_File -INFO - Sports is equal to Sports
+2023-04-06 00:14:17,585 - logger_File -INFO - Automative is equal to Automative
+2023-04-06 00:14:26,051 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:26,051 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:26,167 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:26,407 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:26,481 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:27,182 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:27,341 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:27,341 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:27,419 - logger_File -INFO - user clicked on All section
+2023-04-06 00:14:27,567 - logger_File -INFO - TV & Video is present 
+2023-04-06 00:14:27,616 - logger_File -INFO - Video Games is present 
+2023-04-06 00:14:35,224 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:35,224 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:35,334 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:35,580 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:35,649 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:35,901 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:36,053 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:36,053 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:36,129 - logger_File -INFO - user clicked on All section
+2023-04-06 00:14:36,279 - logger_File -INFO - Accessories is present 
+2023-04-06 00:14:36,328 - logger_File -INFO - Networking is present 
+2023-04-06 00:14:41,040 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:41,040 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:41,194 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:41,453 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:41,549 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:41,923 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:42,081 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:42,082 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:42,151 - logger_File -INFO - user clicked on All section
+2023-04-06 00:14:42,293 - logger_File -INFO - Smart Home Lightning is present 
+2023-04-06 00:14:42,334 - logger_File -INFO - Plugs and Outlets is present 
+2023-04-06 00:14:49,517 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:49,517 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:49,645 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:49,886 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:49,957 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:50,378 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:50,544 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:50,544 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:50,623 - logger_File -INFO - user clicked on All section
+2023-04-06 00:14:50,792 - logger_File -INFO - Athletic Clothing is present 
+2023-04-06 00:14:50,834 - logger_File -INFO - Exercise & Fitness is present 
+2023-04-06 00:14:57,620 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:57,620 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:57,731 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:14:57,978 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:14:58,044 - logger_File -INFO - user clicked on login button
+2023-04-06 00:14:58,287 - logger_File -INFO - user is login into the account
+2023-04-06 00:14:58,442 - logger_File -INFO - user is on retail website
+2023-04-06 00:14:58,442 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:14:58,519 - logger_File -INFO - user clicked on All section
+2023-04-06 00:14:58,690 - logger_File -INFO - Automative Parts & Accessories is present 
+2023-04-06 00:14:58,735 - logger_File -INFO - MotorCycle & Powersports is present 
+2023-04-06 00:15:03,404 - logger_File -INFO - user is on retail website
+2023-04-06 00:15:03,404 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:15:03,518 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:15:03,774 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:15:03,845 - logger_File -INFO - user clicked on login button
+2023-04-06 00:15:04,413 - logger_File -INFO - user is login into the account
+2023-04-06 00:15:04,926 - logger_File -INFO - user clicked on Search icon
+2023-04-06 00:15:05,588 - logger_File -INFO - user clicked Kasa Outdoor Smart Plug
+2023-04-06 00:15:12,015 - logger_File -INFO - user is on retail website
+2023-04-06 00:15:12,015 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:15:12,175 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:15:12,430 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:15:12,501 - logger_File -INFO - user clicked on login button
+2023-04-06 00:15:12,817 - logger_File -INFO - user is login into the account
+2023-04-06 00:15:13,320 - logger_File -INFO - user clicked on Search icon
+2023-04-06 00:15:13,920 - logger_File -INFO - user clicked Kasa Outdoor Smart Plug
+2023-04-06 00:15:14,977 - logger_File -INFO - cart button should be selected
+2023-04-06 00:15:15,626 - logger_File -INFO - customer taken to checkout page
+2023-04-06 00:15:16,703 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-04-06 00:15:17,995 - logger_File -INFO - order placed Message displayed
+2023-04-06 00:15:22,568 - logger_File -INFO - user is on retail website
+2023-04-06 00:15:22,568 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:15:22,713 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:15:23,021 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:15:23,121 - logger_File -INFO - user clicked on login button
+2023-04-06 00:15:23,395 - logger_File -INFO - user is login into the account
+2023-04-06 00:15:23,871 - logger_File -INFO - user clicked on Search icon
+2023-04-06 00:15:24,163 - logger_File -INFO - user clicked Kasa Outdoor Smart Plug
+2023-04-06 00:15:24,532 - logger_File -INFO - cart button should be selected
+2023-04-06 00:15:24,670 - logger_File -INFO - customer taken to checkout page
+2023-04-06 00:15:25,432 - logger_File -INFO - order placed Message displayed
+2023-04-06 00:15:29,434 - logger_File -INFO - user is on retail website
+2023-04-06 00:15:29,435 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:15:29,563 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:15:29,799 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:15:29,865 - logger_File -INFO - user clicked on login button
+2023-04-06 00:15:30,139 - logger_File -INFO - user is login into the account
+2023-04-06 00:15:30,392 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:15:31,106 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:15:31,942 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:15:42,012 - logger_File -INFO - user is on retail website
+2023-04-06 00:15:42,012 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:15:42,139 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:15:42,386 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:15:42,456 - logger_File -INFO - user clicked on login button
+2023-04-06 00:15:42,688 - logger_File -INFO - user is login into the account
+2023-04-06 00:15:42,897 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:15:43,880 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:15:43,974 - logger_File -INFO - review button clicked
+2023-04-06 00:15:44,343 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:15:45,098 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:15:49,595 - logger_File -INFO - user is on retail website
+2023-04-06 00:15:49,596 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:15:49,727 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:15:50,003 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:15:50,073 - logger_File -INFO - user clicked on login button
+2023-04-06 00:15:50,388 - logger_File -INFO - user is login into the account
+2023-04-06 00:15:50,628 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:15:51,440 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:16:04,448 - logger_File -INFO - user clicked on return Button
+2023-04-06 00:16:04,632 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 00:16:04,872 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 00:16:04,974 - logger_File -INFO - user clicked on return 
+2023-04-06 00:16:05,123 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 00:16:10,476 - logger_File -INFO - user is on retail website
+2023-04-06 00:16:10,477 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:16:10,601 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:16:10,840 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:16:10,913 - logger_File -INFO - user clicked on login button
+2023-04-06 00:16:11,325 - logger_File -INFO - user is login into the account
+2023-04-06 00:16:18,156 - logger_File -INFO - user is on retail website
+2023-04-06 00:16:18,156 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:16:18,270 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:16:18,359 - logger_File -INFO - user clicked on Create New Account button
+2023-04-06 00:16:18,845 - logger_File -INFO - user filled the signUp information form
+2023-04-06 00:16:18,924 - logger_File -INFO - user clicked on SignUpForm button
+2023-04-06 00:16:19,740 - logger_File -INFO - user is login into the account
+2023-04-06 00:19:48,007 - logger_File -INFO - user is on retail website
+2023-04-06 00:19:48,013 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:19:48,163 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:19:48,444 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:19:48,525 - logger_File -INFO - user clicked on login button
+2023-04-06 00:19:48,773 - logger_File -INFO - user is login into the account
+2023-04-06 00:19:49,037 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:19:49,545 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:19:50,435 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:19:57,452 - logger_File -INFO - user is on retail website
+2023-04-06 00:19:57,452 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:19:57,591 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:19:57,837 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:19:57,914 - logger_File -INFO - user clicked on login button
+2023-04-06 00:19:58,760 - logger_File -INFO - user is login into the account
+2023-04-06 00:19:59,001 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:19:59,606 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:19:59,695 - logger_File -INFO - review button clicked
+2023-04-06 00:20:00,133 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:20:01,209 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:20:09,280 - logger_File -INFO - user is on retail website
+2023-04-06 00:20:09,280 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:20:09,395 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:20:09,643 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:20:09,714 - logger_File -INFO - user clicked on login button
+2023-04-06 00:20:10,246 - logger_File -INFO - user is login into the account
+2023-04-06 00:20:10,461 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:20:11,411 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:22:14,216 - logger_File -INFO - user is on retail website
+2023-04-06 00:22:14,223 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:22:14,361 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:22:14,629 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:22:14,711 - logger_File -INFO - user clicked on login button
+2023-04-06 00:22:15,951 - logger_File -INFO - user is login into the account
+2023-04-06 00:22:16,203 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:22:17,242 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:22:29,448 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:22:35,024 - logger_File -INFO - user is on retail website
+2023-04-06 00:22:35,024 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:22:35,160 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:22:35,410 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:22:35,487 - logger_File -INFO - user clicked on login button
+2023-04-06 00:22:36,223 - logger_File -INFO - user is login into the account
+2023-04-06 00:22:36,483 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:22:37,666 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:22:37,759 - logger_File -INFO - review button clicked
+2023-04-06 00:22:38,178 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:22:38,872 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:22:43,518 - logger_File -INFO - user is on retail website
+2023-04-06 00:22:43,519 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:22:43,648 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:22:43,898 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:22:43,975 - logger_File -INFO - user clicked on login button
+2023-04-06 00:22:44,717 - logger_File -INFO - user is login into the account
+2023-04-06 00:22:44,957 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:22:45,611 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:24:41,160 - logger_File -INFO - user is on retail website
+2023-04-06 00:24:41,166 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:24:41,342 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:24:41,616 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:24:41,707 - logger_File -INFO - user clicked on login button
+2023-04-06 00:24:42,137 - logger_File -INFO - user is login into the account
+2023-04-06 00:24:42,393 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:24:43,365 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:24:44,152 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:24:51,662 - logger_File -INFO - user is on retail website
+2023-04-06 00:24:51,662 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:24:51,844 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:24:52,106 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:24:52,181 - logger_File -INFO - user clicked on login button
+2023-04-06 00:24:52,640 - logger_File -INFO - user is login into the account
+2023-04-06 00:24:52,948 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:24:53,603 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:24:53,696 - logger_File -INFO - review button clicked
+2023-04-06 00:24:54,105 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:24:54,816 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:24:58,568 - logger_File -INFO - user is on retail website
+2023-04-06 00:24:58,569 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:24:58,702 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:24:58,958 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:24:59,035 - logger_File -INFO - user clicked on login button
+2023-04-06 00:24:59,337 - logger_File -INFO - user is login into the account
+2023-04-06 00:24:59,565 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:25:01,281 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:28:18,358 - logger_File -INFO - user is on retail website
+2023-04-06 00:28:18,364 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:28:18,519 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:28:18,785 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:28:18,869 - logger_File -INFO - user clicked on login button
+2023-04-06 00:28:19,212 - logger_File -INFO - user is login into the account
+2023-04-06 00:28:19,481 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:28:20,172 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:28:20,754 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:28:27,937 - logger_File -INFO - user is on retail website
+2023-04-06 00:28:27,938 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:28:28,107 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:28:28,364 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:28:28,441 - logger_File -INFO - user clicked on login button
+2023-04-06 00:28:28,698 - logger_File -INFO - user is login into the account
+2023-04-06 00:28:28,964 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:28:29,794 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:28:29,887 - logger_File -INFO - review button clicked
+2023-04-06 00:28:30,310 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:28:31,204 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:28:36,889 - logger_File -INFO - user is on retail website
+2023-04-06 00:28:36,889 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:28:37,006 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:28:37,255 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:28:37,328 - logger_File -INFO - user clicked on login button
+2023-04-06 00:28:37,757 - logger_File -INFO - user is login into the account
+2023-04-06 00:28:37,992 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:28:38,775 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:28:57,903 - logger_File -INFO - user clicked on return Button
+2023-04-06 00:31:25,102 - logger_File -INFO - user is on retail website
+2023-04-06 00:31:25,108 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:31:25,243 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:31:25,523 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:31:25,611 - logger_File -INFO - user clicked on login button
+2023-04-06 00:31:25,907 - logger_File -INFO - user is login into the account
+2023-04-06 00:31:26,177 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:31:26,889 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:31:27,467 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:31:33,806 - logger_File -INFO - user is on retail website
+2023-04-06 00:31:33,807 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:31:33,944 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:31:34,195 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:31:34,268 - logger_File -INFO - user clicked on login button
+2023-04-06 00:31:34,572 - logger_File -INFO - user is login into the account
+2023-04-06 00:31:34,821 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:31:35,305 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:31:35,401 - logger_File -INFO - review button clicked
+2023-04-06 00:31:35,806 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:31:36,567 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:31:41,854 - logger_File -INFO - user is on retail website
+2023-04-06 00:31:41,858 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:31:42,011 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:31:42,261 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:31:42,335 - logger_File -INFO - user clicked on login button
+2023-04-06 00:31:42,930 - logger_File -INFO - user is login into the account
+2023-04-06 00:31:43,171 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:31:44,286 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:32:01,705 - logger_File -INFO - user clicked on return Button
+2023-04-06 00:32:01,909 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 00:32:02,128 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 00:32:02,231 - logger_File -INFO - user clicked on return 
+2023-04-06 00:32:02,437 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 00:33:55,576 - logger_File -INFO - user is on retail website
+2023-04-06 00:33:55,587 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:33:55,758 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:33:56,012 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:33:56,093 - logger_File -INFO - user clicked on login button
+2023-04-06 00:33:56,354 - logger_File -INFO - user is login into the account
+2023-04-06 00:33:56,629 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:33:57,524 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:33:58,173 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:34:04,426 - logger_File -INFO - user is on retail website
+2023-04-06 00:34:04,427 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:34:04,611 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:34:04,880 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:34:04,954 - logger_File -INFO - user clicked on login button
+2023-04-06 00:34:05,287 - logger_File -INFO - user is login into the account
+2023-04-06 00:34:05,553 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:34:06,053 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:34:06,141 - logger_File -INFO - review button clicked
+2023-04-06 00:34:06,549 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:34:07,251 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:34:11,488 - logger_File -INFO - user is on retail website
+2023-04-06 00:34:11,489 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:34:11,751 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:34:11,994 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:34:12,072 - logger_File -INFO - user clicked on login button
+2023-04-06 00:34:12,354 - logger_File -INFO - user is login into the account
+2023-04-06 00:34:12,582 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:34:13,097 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:34:30,775 - logger_File -INFO - user clicked on return Button
+2023-04-06 00:34:30,969 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 00:34:31,148 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 00:34:31,229 - logger_File -INFO - user clicked on return 
+2023-04-06 00:34:31,743 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 00:35:38,259 - logger_File -INFO - user is on retail website
+2023-04-06 00:35:38,266 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:35:38,419 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:35:38,696 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:35:38,777 - logger_File -INFO - user clicked on login button
+2023-04-06 00:35:39,033 - logger_File -INFO - user is login into the account
+2023-04-06 00:35:39,292 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:35:39,887 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:35:50,178 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:35:55,308 - logger_File -INFO - user is on retail website
+2023-04-06 00:35:55,308 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:35:55,456 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:35:55,707 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:35:55,783 - logger_File -INFO - user clicked on login button
+2023-04-06 00:35:56,140 - logger_File -INFO - user is login into the account
+2023-04-06 00:35:56,381 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:35:57,959 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:35:58,051 - logger_File -INFO - review button clicked
+2023-04-06 00:35:58,495 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:35:59,149 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:36:07,771 - logger_File -INFO - user is on retail website
+2023-04-06 00:36:07,772 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:36:07,897 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:36:08,142 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:36:08,221 - logger_File -INFO - user clicked on login button
+2023-04-06 00:36:08,504 - logger_File -INFO - user is login into the account
+2023-04-06 00:36:08,772 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:36:09,891 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:36:22,911 - logger_File -INFO - user clicked on return Button
+2023-04-06 00:36:23,111 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 00:36:23,307 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 00:36:23,403 - logger_File -INFO - user clicked on return 
+2023-04-06 00:36:23,555 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 00:37:27,019 - logger_File -INFO - user is on retail website
+2023-04-06 00:37:27,026 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:37:27,172 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:37:27,440 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:37:27,539 - logger_File -INFO - user clicked on login button
+2023-04-06 00:37:27,867 - logger_File -INFO - user is login into the account
+2023-04-06 00:37:28,293 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:37:28,534 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:37:29,062 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:37:36,234 - logger_File -INFO - user is on retail website
+2023-04-06 00:37:36,235 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:37:36,374 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:37:36,642 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:37:36,732 - logger_File -INFO - user clicked on login button
+2023-04-06 00:37:37,011 - logger_File -INFO - user is login into the account
+2023-04-06 00:37:37,266 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:37:38,113 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:37:38,202 - logger_File -INFO - review button clicked
+2023-04-06 00:37:38,610 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:37:39,331 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:37:43,547 - logger_File -INFO - user is on retail website
+2023-04-06 00:37:43,547 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:37:43,682 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:37:43,925 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:37:43,998 - logger_File -INFO - user clicked on login button
+2023-04-06 00:37:44,277 - logger_File -INFO - user is login into the account
+2023-04-06 00:37:44,517 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:37:45,538 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:41:02,259 - logger_File -INFO - user is on retail website
+2023-04-06 00:41:02,265 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:41:02,406 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:41:02,681 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:41:02,763 - logger_File -INFO - user clicked on login button
+2023-04-06 00:41:03,568 - logger_File -INFO - user is login into the account
+2023-04-06 00:41:03,826 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:41:04,495 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:41:14,662 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:41:19,233 - logger_File -INFO - user is on retail website
+2023-04-06 00:41:19,234 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:41:19,363 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:41:19,613 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:41:19,688 - logger_File -INFO - user clicked on login button
+2023-04-06 00:41:20,234 - logger_File -INFO - user is login into the account
+2023-04-06 00:41:20,476 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:41:21,500 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:41:21,618 - logger_File -INFO - review button clicked
+2023-04-06 00:41:22,025 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:41:22,729 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:41:29,410 - logger_File -INFO - user is on retail website
+2023-04-06 00:41:29,411 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:41:29,549 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:41:29,826 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:41:29,912 - logger_File -INFO - user clicked on login button
+2023-04-06 00:41:30,205 - logger_File -INFO - user is login into the account
+2023-04-06 00:41:30,440 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:41:31,775 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:41:45,058 - logger_File -INFO - user clicked on return Button
+2023-04-06 00:41:45,261 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 00:41:45,442 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 00:42:30,019 - logger_File -INFO - user is on retail website
+2023-04-06 00:42:30,026 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:42:30,195 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:42:30,470 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:42:30,551 - logger_File -INFO - user clicked on login button
+2023-04-06 00:42:30,906 - logger_File -INFO - user is login into the account
+2023-04-06 00:42:31,165 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:42:31,559 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:42:32,153 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 00:42:38,592 - logger_File -INFO - user is on retail website
+2023-04-06 00:42:38,593 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:42:38,753 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:42:39,016 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:42:39,088 - logger_File -INFO - user clicked on login button
+2023-04-06 00:42:39,594 - logger_File -INFO - user is login into the account
+2023-04-06 00:42:39,832 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:42:41,473 - logger_File -INFO - user clicked on orders detail
+2023-04-06 00:42:41,573 - logger_File -INFO - review button clicked
+2023-04-06 00:42:41,984 - logger_File -INFO - user confirms Reivew
+2023-04-06 00:42:42,709 - logger_File -INFO - user gets message that review was added
+2023-04-06 00:42:48,929 - logger_File -INFO - user is on retail website
+2023-04-06 00:42:48,930 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 00:42:49,059 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 00:42:49,297 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 00:42:49,378 - logger_File -INFO - user clicked on login button
+2023-04-06 00:42:49,904 - logger_File -INFO - user is login into the account
+2023-04-06 00:42:50,139 - logger_File -INFO - user clicked on orders button
+2023-04-06 00:42:52,318 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:31:00,195 - logger_File -INFO - user is on retail website
+2023-04-06 06:31:00,202 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:31:00,427 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:31:00,730 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:31:00,811 - logger_File -INFO - user clicked on login button
+2023-04-06 06:31:01,073 - logger_File -INFO - user is login into the account
+2023-04-06 06:31:01,471 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:31:01,747 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:31:02,392 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 06:31:07,111 - logger_File -INFO - user is on retail website
+2023-04-06 06:31:07,113 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:31:07,399 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:31:07,669 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:31:07,747 - logger_File -INFO - user clicked on login button
+2023-04-06 06:31:07,963 - logger_File -INFO - user is login into the account
+2023-04-06 06:31:08,389 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:31:08,657 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:31:08,777 - logger_File -INFO - review button clicked
+2023-04-06 06:31:09,263 - logger_File -INFO - user confirms Reivew
+2023-04-06 06:31:09,911 - logger_File -INFO - user gets message that review was added
+2023-04-06 06:31:16,176 - logger_File -INFO - user is on retail website
+2023-04-06 06:31:16,176 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:31:16,449 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:31:16,705 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:31:16,787 - logger_File -INFO - user clicked on login button
+2023-04-06 06:31:16,997 - logger_File -INFO - user is login into the account
+2023-04-06 06:31:17,242 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:31:17,713 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:33:33,436 - logger_File -INFO - user is on retail website
+2023-04-06 06:33:33,442 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:33:33,585 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:33:33,900 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:33:34,028 - logger_File -INFO - user clicked on login button
+2023-04-06 06:33:34,463 - logger_File -INFO - user is login into the account
+2023-04-06 06:33:34,879 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:33:35,124 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:34:36,555 - logger_File -INFO - user is on retail website
+2023-04-06 06:34:36,567 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:34:36,768 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:34:37,052 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:34:37,142 - logger_File -INFO - user clicked on login button
+2023-04-06 06:34:37,481 - logger_File -INFO - user is login into the account
+2023-04-06 06:34:37,860 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:34:38,087 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:34:54,705 - logger_File -INFO - user clicked on return Button
+2023-04-06 06:34:54,990 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 06:34:55,227 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 06:37:22,955 - logger_File -INFO - user is on retail website
+2023-04-06 06:37:22,964 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:37:23,125 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:37:23,411 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:37:23,501 - logger_File -INFO - user clicked on login button
+2023-04-06 06:37:23,869 - logger_File -INFO - user is login into the account
+2023-04-06 06:37:24,247 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:37:24,505 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:45:07,247 - logger_File -INFO - user is on retail website
+2023-04-06 06:45:07,254 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:45:07,422 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:45:07,683 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:45:07,764 - logger_File -INFO - user clicked on login button
+2023-04-06 06:45:08,034 - logger_File -INFO - user is login into the account
+2023-04-06 06:45:16,076 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:45:16,579 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:47:59,901 - logger_File -INFO - user is on retail website
+2023-04-06 06:47:59,908 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:48:00,168 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:48:00,456 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:48:00,538 - logger_File -INFO - user clicked on login button
+2023-04-06 06:48:00,759 - logger_File -INFO - user is login into the account
+2023-04-06 06:51:48,281 - logger_File -INFO - user is on retail website
+2023-04-06 06:51:48,287 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:51:48,462 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:51:48,784 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:51:48,901 - logger_File -INFO - user clicked on login button
+2023-04-06 06:51:49,237 - logger_File -INFO - user is login into the account
+2023-04-06 06:51:49,637 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:52:07,375 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:52:08,010 - logger_File -INFO - user clicked on return Button
+2023-04-06 06:52:08,255 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 06:52:08,458 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 06:52:08,556 - logger_File -INFO - user clicked on return 
+2023-04-06 06:52:08,839 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 06:53:54,447 - logger_File -INFO - user is on retail website
+2023-04-06 06:53:54,454 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:53:54,645 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:53:54,935 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:53:55,022 - logger_File -INFO - user clicked on login button
+2023-04-06 06:53:55,409 - logger_File -INFO - user is login into the account
+2023-04-06 06:53:55,671 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:56:26,498 - logger_File -INFO - user is on retail website
+2023-04-06 06:56:26,504 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:56:26,647 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:56:26,921 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:56:27,006 - logger_File -INFO - user clicked on login button
+2023-04-06 06:56:27,341 - logger_File -INFO - user is login into the account
+2023-04-06 06:56:27,841 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:56:36,434 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:56:38,681 - logger_File -INFO - user clicked on return Button
+2023-04-06 06:56:38,897 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 06:56:39,074 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 06:56:39,169 - logger_File -INFO - user clicked on return 
+2023-04-06 06:56:39,262 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 06:59:54,818 - logger_File -INFO - user is on retail website
+2023-04-06 06:59:54,826 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 06:59:54,983 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 06:59:55,280 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 06:59:55,374 - logger_File -INFO - user clicked on login button
+2023-04-06 06:59:55,769 - logger_File -INFO - user is login into the account
+2023-04-06 06:59:56,193 - logger_File -INFO - user clicked on orders button
+2023-04-06 06:59:56,443 - logger_File -INFO - user clicked on orders detail
+2023-04-06 06:59:56,576 - logger_File -INFO - user clicked on return Button
+2023-04-06 06:59:56,775 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 06:59:56,949 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 06:59:57,034 - logger_File -INFO - user clicked on return 
+2023-04-06 06:59:57,128 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:00:31,169 - logger_File -INFO - user is on retail website
+2023-04-06 07:00:31,176 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:00:31,348 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:00:31,675 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:00:31,762 - logger_File -INFO - user clicked on login button
+2023-04-06 07:00:32,092 - logger_File -INFO - user is login into the account
+2023-04-06 07:00:32,498 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:00:32,763 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:00:32,899 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:00:33,117 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:00:33,298 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:00:33,379 - logger_File -INFO - user clicked on return 
+2023-04-06 07:00:33,585 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:01:24,108 - logger_File -INFO - user is on retail website
+2023-04-06 07:01:24,114 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:01:24,288 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:01:24,591 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:01:24,687 - logger_File -INFO - user clicked on login button
+2023-04-06 07:01:25,044 - logger_File -INFO - user is login into the account
+2023-04-06 07:01:25,296 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:01:25,739 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:01:25,887 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:01:26,093 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:01:26,277 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:01:26,369 - logger_File -INFO - user clicked on return 
+2023-04-06 07:01:26,460 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:04:07,562 - logger_File -INFO - user is on retail website
+2023-04-06 07:04:07,571 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:04:07,727 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:04:07,987 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:04:08,070 - logger_File -INFO - user clicked on login button
+2023-04-06 07:04:08,344 - logger_File -INFO - user is login into the account
+2023-04-06 07:04:08,818 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:04:09,065 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:04:09,594 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:04:15,475 - logger_File -INFO - user is on retail website
+2023-04-06 07:04:15,476 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:04:15,629 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:04:15,888 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:04:15,976 - logger_File -INFO - user clicked on login button
+2023-04-06 07:04:16,409 - logger_File -INFO - user is login into the account
+2023-04-06 07:04:16,851 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:04:17,080 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:04:17,174 - logger_File -INFO - review button clicked
+2023-04-06 07:04:17,606 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:04:18,251 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:04:23,765 - logger_File -INFO - user is on retail website
+2023-04-06 07:04:23,765 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:04:23,900 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:04:24,212 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:04:24,291 - logger_File -INFO - user clicked on login button
+2023-04-06 07:04:24,588 - logger_File -INFO - user is login into the account
+2023-04-06 07:04:24,814 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:04:25,320 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:04:39,135 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:04:39,330 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:04:39,609 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:04:39,702 - logger_File -INFO - user clicked on return 
+2023-04-06 07:04:39,787 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:06:32,950 - logger_File -INFO - user is on retail website
+2023-04-06 07:06:32,954 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:06:33,094 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:06:33,385 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:06:33,467 - logger_File -INFO - user clicked on login button
+2023-04-06 07:06:33,871 - logger_File -INFO - user is login into the account
+2023-04-06 07:06:34,290 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:06:34,529 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:06:45,114 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:06:48,657 - logger_File -INFO - user is on retail website
+2023-04-06 07:06:48,658 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:06:48,799 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:06:49,078 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:06:49,165 - logger_File -INFO - user clicked on login button
+2023-04-06 07:06:49,462 - logger_File -INFO - user is login into the account
+2023-04-06 07:06:49,715 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:06:50,114 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:06:59,912 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:07:00,119 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:07:00,304 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:07:00,407 - logger_File -INFO - user clicked on return 
+2023-04-06 07:07:00,507 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:07:04,394 - logger_File -INFO - user is on retail website
+2023-04-06 07:07:04,394 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:07:04,662 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:07:04,927 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:07:05,000 - logger_File -INFO - user clicked on login button
+2023-04-06 07:07:05,289 - logger_File -INFO - user is login into the account
+2023-04-06 07:07:05,706 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:07:05,940 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:07:06,025 - logger_File -INFO - review button clicked
+2023-04-06 07:07:06,444 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:07:07,150 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:11:28,975 - logger_File -INFO - user is on retail website
+2023-04-06 07:11:28,983 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:11:29,126 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:11:29,406 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:11:29,487 - logger_File -INFO - user clicked on login button
+2023-04-06 07:11:29,765 - logger_File -INFO - user is login into the account
+2023-04-06 07:11:30,132 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:11:30,493 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:11:31,015 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:11:36,047 - logger_File -INFO - user is on retail website
+2023-04-06 07:11:36,047 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:11:36,299 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:11:36,546 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:11:36,619 - logger_File -INFO - user clicked on login button
+2023-04-06 07:11:36,890 - logger_File -INFO - user is login into the account
+2023-04-06 07:11:37,418 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:11:37,696 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:11:47,225 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:11:47,401 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:11:47,588 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:11:47,683 - logger_File -INFO - user clicked on return 
+2023-04-06 07:11:47,775 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:11:51,788 - logger_File -INFO - user is on retail website
+2023-04-06 07:11:51,788 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:11:51,923 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:11:52,200 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:11:52,285 - logger_File -INFO - user clicked on login button
+2023-04-06 07:11:52,622 - logger_File -INFO - user is login into the account
+2023-04-06 07:11:53,022 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:11:53,267 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:11:53,349 - logger_File -INFO - review button clicked
+2023-04-06 07:11:53,768 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:11:54,471 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:20:59,401 - logger_File -INFO - user is on retail website
+2023-04-06 07:20:59,407 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:20:59,651 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:20:59,935 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:21:00,032 - logger_File -INFO - user clicked on login button
+2023-04-06 07:21:00,343 - logger_File -INFO - user is login into the account
+2023-04-06 07:21:00,583 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:21:01,038 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:21:17,402 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:21:22,340 - logger_File -INFO - user is on retail website
+2023-04-06 07:21:22,341 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:21:22,547 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:21:22,832 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:21:22,914 - logger_File -INFO - user clicked on login button
+2023-04-06 07:21:23,250 - logger_File -INFO - user is login into the account
+2023-04-06 07:21:23,493 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:21:23,982 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:21:40,524 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:21:40,717 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:21:40,898 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:21:40,985 - logger_File -INFO - user clicked on return 
+2023-04-06 07:21:41,257 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:21:45,150 - logger_File -INFO - user is on retail website
+2023-04-06 07:21:45,151 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:21:45,427 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:21:45,678 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:21:45,764 - logger_File -INFO - user clicked on login button
+2023-04-06 07:21:45,988 - logger_File -INFO - user is login into the account
+2023-04-06 07:21:46,388 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:21:46,628 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:21:46,712 - logger_File -INFO - review button clicked
+2023-04-06 07:21:47,151 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:21:47,793 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:23:26,210 - logger_File -INFO - user is on retail website
+2023-04-06 07:23:26,216 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:23:26,364 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:23:26,652 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:23:26,731 - logger_File -INFO - user clicked on login button
+2023-04-06 07:23:27,625 - logger_File -INFO - user is login into the account
+2023-04-06 07:23:28,071 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:23:28,304 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:23:28,877 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:23:32,701 - logger_File -INFO - user is on retail website
+2023-04-06 07:23:32,701 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:23:32,845 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:23:33,097 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:23:33,171 - logger_File -INFO - user clicked on login button
+2023-04-06 07:23:33,464 - logger_File -INFO - user is login into the account
+2023-04-06 07:23:34,050 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:23:34,292 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:24:18,040 - logger_File -INFO - user is on retail website
+2023-04-06 07:24:18,041 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:24:18,176 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:24:18,413 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:24:18,489 - logger_File -INFO - user clicked on login button
+2023-04-06 07:24:18,833 - logger_File -INFO - user is login into the account
+2023-04-06 07:24:19,411 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:24:19,655 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:24:19,748 - logger_File -INFO - review button clicked
+2023-04-06 07:24:20,188 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:24:20,827 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:25:51,145 - logger_File -INFO - user is on retail website
+2023-04-06 07:25:51,152 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:25:51,304 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:25:51,570 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:25:51,678 - logger_File -INFO - user clicked on login button
+2023-04-06 07:25:51,886 - logger_File -INFO - user is login into the account
+2023-04-06 07:25:52,316 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:25:52,553 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:26:07,890 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:26:11,697 - logger_File -INFO - user is on retail website
+2023-04-06 07:26:11,698 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:26:11,991 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:26:12,235 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:26:12,311 - logger_File -INFO - user clicked on login button
+2023-04-06 07:26:12,583 - logger_File -INFO - user is login into the account
+2023-04-06 07:26:13,016 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:26:13,264 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:26:31,166 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:26:31,374 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:26:31,570 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:26:31,657 - logger_File -INFO - user clicked on return 
+2023-04-06 07:26:32,064 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:26:36,414 - logger_File -INFO - user is on retail website
+2023-04-06 07:26:36,414 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:26:36,574 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:26:36,855 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:26:36,933 - logger_File -INFO - user clicked on login button
+2023-04-06 07:26:37,288 - logger_File -INFO - user is login into the account
+2023-04-06 07:26:37,714 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:26:37,953 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:26:38,056 - logger_File -INFO - review button clicked
+2023-04-06 07:26:38,499 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:26:39,136 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:39:17,721 - logger_File -INFO - user is on retail website
+2023-04-06 07:39:17,732 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:39:17,883 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:39:18,165 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:39:18,245 - logger_File -INFO - user clicked on login button
+2023-04-06 07:39:18,500 - logger_File -INFO - user is login into the account
+2023-04-06 07:39:18,999 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:39:19,259 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:39:27,956 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:39:33,738 - logger_File -INFO - user is on retail website
+2023-04-06 07:39:33,738 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:39:34,017 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:39:34,261 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:39:34,337 - logger_File -INFO - user clicked on login button
+2023-04-06 07:39:34,620 - logger_File -INFO - user is login into the account
+2023-04-06 07:39:34,943 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:39:35,274 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:39:51,972 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:39:52,169 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:39:52,345 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:39:52,429 - logger_File -INFO - user clicked on return 
+2023-04-06 07:39:52,861 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:39:56,368 - logger_File -INFO - user is on retail website
+2023-04-06 07:39:56,368 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:39:56,596 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:39:56,880 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:39:56,961 - logger_File -INFO - user clicked on login button
+2023-04-06 07:39:57,177 - logger_File -INFO - user is login into the account
+2023-04-06 07:39:57,615 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:39:57,850 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:39:57,949 - logger_File -INFO - review button clicked
+2023-04-06 07:39:58,356 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:39:59,051 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:42:52,100 - logger_File -INFO - user is on retail website
+2023-04-06 07:42:52,110 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:42:52,423 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:42:52,701 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:42:52,783 - logger_File -INFO - user clicked on login button
+2023-04-06 07:42:53,006 - logger_File -INFO - user is login into the account
+2023-04-06 07:42:53,435 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:42:53,688 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:43:39,696 - logger_File -INFO - user is on retail website
+2023-04-06 07:43:39,696 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:43:39,998 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:43:40,250 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:43:40,333 - logger_File -INFO - user clicked on login button
+2023-04-06 07:43:40,576 - logger_File -INFO - user is login into the account
+2023-04-06 07:43:40,982 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:43:41,213 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:44:25,707 - logger_File -INFO - user is on retail website
+2023-04-06 07:44:25,707 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:44:25,829 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:44:26,085 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:44:26,162 - logger_File -INFO - user clicked on login button
+2023-04-06 07:44:26,431 - logger_File -INFO - user is login into the account
+2023-04-06 07:44:27,008 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:44:27,250 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:44:27,830 - logger_File -INFO - review button clicked
+2023-04-06 07:44:28,256 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:44:28,893 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:45:54,965 - logger_File -INFO - user is on retail website
+2023-04-06 07:45:54,972 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:45:55,229 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:45:55,507 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:45:55,592 - logger_File -INFO - user clicked on login button
+2023-04-06 07:45:55,873 - logger_File -INFO - user is login into the account
+2023-04-06 07:45:56,295 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:45:56,537 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:46:09,051 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:46:12,490 - logger_File -INFO - user is on retail website
+2023-04-06 07:46:12,491 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:46:12,752 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:46:13,021 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:46:13,098 - logger_File -INFO - user clicked on login button
+2023-04-06 07:46:13,342 - logger_File -INFO - user is login into the account
+2023-04-06 07:46:13,755 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:46:14,003 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:46:16,640 - logger_File -INFO - user clicked on return Button
+2023-04-06 07:46:16,897 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 07:46:17,135 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 07:46:17,262 - logger_File -INFO - user clicked on return 
+2023-04-06 07:46:17,407 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 07:46:22,484 - logger_File -INFO - user is on retail website
+2023-04-06 07:46:22,484 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:46:22,676 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:46:22,945 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:46:23,022 - logger_File -INFO - user clicked on login button
+2023-04-06 07:46:23,466 - logger_File -INFO - user is login into the account
+2023-04-06 07:46:23,707 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:46:24,323 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:46:24,435 - logger_File -INFO - review button clicked
+2023-04-06 07:46:24,847 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:46:25,488 - logger_File -INFO - user gets message that review was added
+2023-04-06 07:52:59,116 - logger_File -INFO - user is on retail website
+2023-04-06 07:52:59,122 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:52:59,288 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:52:59,584 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:52:59,666 - logger_File -INFO - user clicked on login button
+2023-04-06 07:53:00,065 - logger_File -INFO - user is login into the account
+2023-04-06 07:53:00,501 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:53:48,144 - logger_File -INFO - user is on retail website
+2023-04-06 07:53:48,145 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:53:48,325 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:53:48,608 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:53:48,691 - logger_File -INFO - user clicked on login button
+2023-04-06 07:53:49,028 - logger_File -INFO - user is login into the account
+2023-04-06 07:53:49,272 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:54:37,051 - logger_File -INFO - user is on retail website
+2023-04-06 07:54:37,051 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:54:37,171 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:54:37,478 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:54:37,586 - logger_File -INFO - user clicked on login button
+2023-04-06 07:54:37,934 - logger_File -INFO - user is login into the account
+2023-04-06 07:54:38,373 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:55:01,004 - logger_File -INFO - user is on retail website
+2023-04-06 07:55:01,010 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:55:01,235 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:55:01,516 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:55:01,605 - logger_File -INFO - user clicked on login button
+2023-04-06 07:55:01,876 - logger_File -INFO - user is login into the account
+2023-04-06 07:55:02,293 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:55:05,960 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:55:42,741 - logger_File -INFO - user is on retail website
+2023-04-06 07:55:42,746 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:55:42,884 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:55:43,183 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:55:43,281 - logger_File -INFO - user clicked on login button
+2023-04-06 07:55:43,667 - logger_File -INFO - user is login into the account
+2023-04-06 07:55:44,088 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:55:47,814 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:56:47,274 - logger_File -INFO - user is on retail website
+2023-04-06 07:56:47,279 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:56:47,414 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:56:47,717 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:56:47,809 - logger_File -INFO - user clicked on login button
+2023-04-06 07:56:48,184 - logger_File -INFO - user is login into the account
+2023-04-06 07:56:48,596 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:57:04,331 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:57:49,985 - logger_File -INFO - user is on retail website
+2023-04-06 07:57:49,986 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:57:50,301 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:57:50,559 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:57:50,644 - logger_File -INFO - user clicked on login button
+2023-04-06 07:57:50,881 - logger_File -INFO - user is login into the account
+2023-04-06 07:57:51,352 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:58:07,045 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:58:20,095 - logger_File -INFO - user is on retail website
+2023-04-06 07:58:20,102 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:58:20,367 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:58:20,654 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:58:20,738 - logger_File -INFO - user clicked on login button
+2023-04-06 07:58:20,957 - logger_File -INFO - user is login into the account
+2023-04-06 07:58:21,209 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:58:37,442 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:58:38,010 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 07:58:44,153 - logger_File -INFO - user is on retail website
+2023-04-06 07:58:44,154 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:58:44,311 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:58:44,577 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:58:44,658 - logger_File -INFO - user clicked on login button
+2023-04-06 07:58:44,954 - logger_File -INFO - user is login into the account
+2023-04-06 07:58:45,623 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:58:56,348 - logger_File -INFO - user is on retail website
+2023-04-06 07:58:56,348 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 07:58:56,509 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 07:58:56,799 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 07:58:56,899 - logger_File -INFO - user clicked on login button
+2023-04-06 07:58:57,248 - logger_File -INFO - user is login into the account
+2023-04-06 07:58:57,702 - logger_File -INFO - user clicked on orders button
+2023-04-06 07:59:01,593 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:59:13,463 - logger_File -INFO - user clicked on orders detail
+2023-04-06 07:59:13,563 - logger_File -INFO - review button clicked
+2023-04-06 07:59:13,913 - logger_File -INFO - user confirms Reivew
+2023-04-06 07:59:15,108 - logger_File -INFO - user gets message that review was added
+2023-04-06 08:00:49,941 - logger_File -INFO - user is on retail website
+2023-04-06 08:00:49,947 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:00:50,122 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:00:50,402 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:00:50,488 - logger_File -INFO - user clicked on login button
+2023-04-06 08:00:50,795 - logger_File -INFO - user is login into the account
+2023-04-06 08:00:51,260 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:01:36,157 - logger_File -INFO - user is on retail website
+2023-04-06 08:01:36,157 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:01:36,322 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:01:36,594 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:01:36,675 - logger_File -INFO - user clicked on login button
+2023-04-06 08:01:37,004 - logger_File -INFO - user is login into the account
+2023-04-06 08:01:37,270 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:02:22,670 - logger_File -INFO - user is on retail website
+2023-04-06 08:02:22,671 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:02:22,793 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:02:23,077 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:02:23,164 - logger_File -INFO - user clicked on login button
+2023-04-06 08:02:23,433 - logger_File -INFO - user is login into the account
+2023-04-06 08:02:23,871 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:14:17,174 - logger_File -INFO - user is on retail website
+2023-04-06 08:14:17,181 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:14:17,394 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:14:17,687 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:14:17,777 - logger_File -INFO - user clicked on login button
+2023-04-06 08:14:18,094 - logger_File -INFO - user is login into the account
+2023-04-06 08:14:18,357 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:14:18,794 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:14:19,314 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 08:14:24,446 - logger_File -INFO - user is on retail website
+2023-04-06 08:14:24,448 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:14:24,616 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:14:24,892 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:14:24,970 - logger_File -INFO - user clicked on login button
+2023-04-06 08:14:25,314 - logger_File -INFO - user is login into the account
+2023-04-06 08:14:25,830 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:14:26,069 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:15:10,240 - logger_File -INFO - user is on retail website
+2023-04-06 08:15:10,240 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:15:10,411 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:15:10,708 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:15:10,799 - logger_File -INFO - user clicked on login button
+2023-04-06 08:15:11,111 - logger_File -INFO - user is login into the account
+2023-04-06 08:15:11,550 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:15:11,799 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:15:11,901 - logger_File -INFO - review button clicked
+2023-04-06 08:15:12,317 - logger_File -INFO - user confirms Reivew
+2023-04-06 08:15:12,948 - logger_File -INFO - user gets message that review was added
+2023-04-06 08:16:16,075 - logger_File -INFO - user is on retail website
+2023-04-06 08:16:16,086 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:16:16,373 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:16:16,640 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:16:16,734 - logger_File -INFO - user clicked on login button
+2023-04-06 08:16:17,012 - logger_File -INFO - user is login into the account
+2023-04-06 08:16:17,267 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:16:17,736 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:16:18,388 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 08:16:22,903 - logger_File -INFO - user is on retail website
+2023-04-06 08:16:22,903 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:16:23,063 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:16:23,314 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:16:23,391 - logger_File -INFO - user clicked on login button
+2023-04-06 08:16:23,883 - logger_File -INFO - user is login into the account
+2023-04-06 08:16:24,134 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:16:24,827 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:16:24,928 - logger_File -INFO - review button clicked
+2023-04-06 08:16:25,372 - logger_File -INFO - user confirms Reivew
+2023-04-06 08:16:26,204 - logger_File -INFO - user gets message that review was added
+2023-04-06 08:16:30,085 - logger_File -INFO - user is on retail website
+2023-04-06 08:16:30,086 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:16:30,347 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:16:30,628 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:16:30,711 - logger_File -INFO - user clicked on login button
+2023-04-06 08:16:30,946 - logger_File -INFO - user is login into the account
+2023-04-06 08:16:31,373 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:16:31,597 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:16:49,664 - logger_File -INFO - user clicked on return Button
+2023-04-06 08:16:49,919 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 08:16:50,120 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 08:16:50,204 - logger_File -INFO - user clicked on return 
+2023-04-06 08:16:50,477 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 08:25:07,684 - logger_File -INFO - user is on retail website
+2023-04-06 08:25:07,691 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:25:07,842 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:25:08,124 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:25:08,210 - logger_File -INFO - user clicked on login button
+2023-04-06 08:25:08,552 - logger_File -INFO - user is login into the account
+2023-04-06 08:25:09,202 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:25:09,417 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:25:24,088 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 08:25:29,468 - logger_File -INFO - user is on retail website
+2023-04-06 08:25:29,468 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:25:29,595 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:25:29,860 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:25:29,961 - logger_File -INFO - user clicked on login button
+2023-04-06 08:25:30,433 - logger_File -INFO - user is login into the account
+2023-04-06 08:25:30,788 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:25:31,114 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:25:31,219 - logger_File -INFO - review button clicked
+2023-04-06 08:25:31,625 - logger_File -INFO - user confirms Reivew
+2023-04-06 08:25:32,269 - logger_File -INFO - user gets message that review was added
+2023-04-06 08:25:36,542 - logger_File -INFO - user is on retail website
+2023-04-06 08:25:36,543 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:25:36,707 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:25:36,949 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:25:37,019 - logger_File -INFO - user clicked on login button
+2023-04-06 08:25:37,266 - logger_File -INFO - user is login into the account
+2023-04-06 08:25:37,566 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:25:38,046 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:27:13,927 - logger_File -INFO - user is on retail website
+2023-04-06 08:27:13,935 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:27:14,097 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:27:14,392 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:27:14,484 - logger_File -INFO - user clicked on login button
+2023-04-06 08:27:15,398 - logger_File -INFO - user is login into the account
+2023-04-06 08:27:15,644 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:27:16,147 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:27:16,782 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 08:27:21,164 - logger_File -INFO - user is on retail website
+2023-04-06 08:27:21,164 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:27:21,461 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:27:21,713 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:27:21,785 - logger_File -INFO - user clicked on login button
+2023-04-06 08:27:22,004 - logger_File -INFO - user is login into the account
+2023-04-06 08:27:22,456 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:27:22,694 - logger_File -INFO - user clicked on orders detail
+2023-04-06 08:27:22,794 - logger_File -INFO - review button clicked
+2023-04-06 08:27:23,209 - logger_File -INFO - user confirms Reivew
+2023-04-06 08:27:23,852 - logger_File -INFO - user gets message that review was added
+2023-04-06 08:27:27,522 - logger_File -INFO - user is on retail website
+2023-04-06 08:27:27,522 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 08:27:27,671 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 08:27:27,937 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 08:27:28,012 - logger_File -INFO - user clicked on login button
+2023-04-06 08:27:28,292 - logger_File -INFO - user is login into the account
+2023-04-06 08:27:28,728 - logger_File -INFO - user clicked on orders button
+2023-04-06 08:27:28,964 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:26:29,411 - logger_File -INFO - user is on retail website
+2023-04-06 22:26:29,417 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:26:29,615 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:26:29,950 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:26:30,047 - logger_File -INFO - user clicked on login button
+2023-04-06 22:26:30,335 - logger_File -INFO - user is login into the account
+2023-04-06 22:26:30,862 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:26:31,097 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:26:31,206 - logger_File -INFO - review button clicked
+2023-04-06 22:26:31,656 - logger_File -INFO - user confirms Reivew
+2023-04-06 22:26:32,301 - logger_File -INFO - user gets message that review was added
+2023-04-06 22:26:36,484 - logger_File -INFO - user is on retail website
+2023-04-06 22:26:36,484 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:26:36,797 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:26:37,092 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:26:37,171 - logger_File -INFO - user clicked on login button
+2023-04-06 22:26:37,389 - logger_File -INFO - user is login into the account
+2023-04-06 22:26:37,925 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:26:38,136 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:26:38,642 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 22:26:43,147 - logger_File -INFO - user is on retail website
+2023-04-06 22:26:43,147 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:26:43,276 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:26:43,553 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:26:43,640 - logger_File -INFO - user clicked on login button
+2023-04-06 22:26:43,948 - logger_File -INFO - user is login into the account
+2023-04-06 22:26:44,358 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:26:44,622 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:47:55,284 - logger_File -INFO - user is on retail website
+2023-04-06 22:47:55,714 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:47:55,993 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:47:56,291 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:47:56,929 - logger_File -INFO - user clicked on login button
+2023-04-06 22:47:56,964 - logger_File -INFO - user is login into the account
+2023-04-06 22:47:58,529 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:47:58,774 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:47:58,880 - logger_File -INFO - review button clicked
+2023-04-06 22:47:59,291 - logger_File -INFO - user confirms Reivew
+2023-04-06 22:47:59,931 - logger_File -INFO - user gets message that review was added
+2023-04-06 22:48:08,316 - logger_File -INFO - user is on retail website
+2023-04-06 22:48:08,316 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:48:08,510 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:48:08,889 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:48:08,982 - logger_File -INFO - user clicked on login button
+2023-04-06 22:48:09,410 - logger_File -INFO - user is login into the account
+2023-04-06 22:48:09,678 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:48:11,534 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:48:12,756 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 22:48:33,721 - logger_File -INFO - user is on retail website
+2023-04-06 22:48:33,722 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:48:33,842 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:48:34,184 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:48:34,255 - logger_File -INFO - user clicked on login button
+2023-04-06 22:48:34,542 - logger_File -INFO - user is login into the account
+2023-04-06 22:48:34,781 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:48:37,884 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:48:51,972 - logger_File -INFO - user clicked on return Button
+2023-04-06 22:48:52,145 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 22:48:52,320 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 22:48:52,410 - logger_File -INFO - user clicked on return 
+2023-04-06 22:48:52,558 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 22:53:45,274 - logger_File -INFO - user is on retail website
+2023-04-06 22:53:45,280 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:53:45,444 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:53:45,720 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:53:45,806 - logger_File -INFO - user clicked on login button
+2023-04-06 22:53:46,103 - logger_File -INFO - user is login into the account
+2023-04-06 22:53:46,554 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:53:46,792 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:53:46,886 - logger_File -INFO - review button clicked
+2023-04-06 22:53:47,333 - logger_File -INFO - user confirms Reivew
+2023-04-06 22:53:47,988 - logger_File -INFO - user gets message that review was added
+2023-04-06 22:53:52,315 - logger_File -INFO - user is on retail website
+2023-04-06 22:53:52,315 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:53:52,479 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:53:52,772 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:53:52,848 - logger_File -INFO - user clicked on login button
+2023-04-06 22:53:53,124 - logger_File -INFO - user is login into the account
+2023-04-06 22:53:53,365 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:53:54,189 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:53:54,681 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 22:54:00,280 - logger_File -INFO - user is on retail website
+2023-04-06 22:54:00,281 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:54:00,429 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:54:00,706 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:54:00,779 - logger_File -INFO - user clicked on login button
+2023-04-06 22:54:01,072 - logger_File -INFO - user is login into the account
+2023-04-06 22:54:01,577 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:54:01,818 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:54:16,462 - logger_File -INFO - user clicked on return Button
+2023-04-06 22:54:16,642 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 22:54:16,804 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 22:54:16,888 - logger_File -INFO - user clicked on return 
+2023-04-06 22:54:16,979 - logger_File -INFO - return message is displayedReturn was successfull
+2023-04-06 22:56:41,700 - logger_File -INFO - user is on retail website
+2023-04-06 22:56:41,705 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:56:41,834 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:56:42,105 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:56:42,193 - logger_File -INFO - user clicked on login button
+2023-04-06 22:56:42,424 - logger_File -INFO - user is login into the account
+2023-04-06 22:56:42,710 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:56:43,716 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:56:43,827 - logger_File -INFO - review button clicked
+2023-04-06 22:56:44,302 - logger_File -INFO - user confirms Reivew
+2023-04-06 22:56:44,955 - logger_File -INFO - user gets message that review was added
+2023-04-06 22:56:49,782 - logger_File -INFO - user is on retail website
+2023-04-06 22:56:49,783 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:56:49,916 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:56:50,155 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:56:50,232 - logger_File -INFO - user clicked on login button
+2023-04-06 22:56:50,460 - logger_File -INFO - user is login into the account
+2023-04-06 22:56:50,740 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:56:51,698 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:56:52,186 - logger_File -INFO - cancellation messager was displayedYour Order Has Been Cancelled
+2023-04-06 22:56:58,617 - logger_File -INFO - user is on retail website
+2023-04-06 22:56:58,618 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-04-06 22:56:58,740 - logger_File -INFO - User clicked on Sign in Option
+2023-04-06 22:56:59,005 - logger_File -INFO - user entered email ramin@gmail.com and password Tek@1234567
+2023-04-06 22:56:59,077 - logger_File -INFO - user clicked on login button
+2023-04-06 22:56:59,599 - logger_File -INFO - user is login into the account
+2023-04-06 22:56:59,886 - logger_File -INFO - user clicked on orders button
+2023-04-06 22:57:00,412 - logger_File -INFO - user clicked on orders detail
+2023-04-06 22:57:00,708 - logger_File -INFO - user clicked on return Button
+2023-04-06 22:57:00,871 - logger_File -INFO - user selected reason for cancelation
+2023-04-06 22:57:01,039 - logger_File -INFO - User clicked on dropOff Location
+2023-04-06 22:57:01,126 - logger_File -INFO - user clicked on return 
+2023-04-06 22:57:01,222 - logger_File -INFO - return message is displayedReturn was successfull

@@ -57,4 +57,6 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement deleteCart;
 	@FindBy(xpath="//*[@id='addressBtn']")
 			public WebElement addressbt;
+	@FindBy(xpath="(//p[contains(text(),'Show')])[2]")
+	public WebElement showDetail;
 }

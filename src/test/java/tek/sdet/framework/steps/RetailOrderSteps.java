@@ -19,16 +19,25 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("user clicked on orders button");
 		
 
+	
 	}
 
 	@When("User click on first order in list")
 	public void userClickOnFirstOrderInList() throws InterruptedException {
-
-		waitTillPresence(factory.accountPage().hideDetails);
+//		click(factory.orderPage().buyAgain);
+//		
+//		click(factory.orderPage().placeOrder);
+//		
+//		click(factory.orderPage().orderLink);
+//		
+////		waitTillPresence(factory.orderPage().hideDetails);
 		click(factory.orderPage().hideDetails);
 		
 		click(factory.orderPage().orderDetail);
 		logger.info("user clicked on orders detail");
+//		click(factory.orderPage().buyAgain);
+//		click(factory.orderPage().placeOrder);
+//		click(factory.orderPage().orderLink);
 		
 	}
 
@@ -36,6 +45,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() throws InterruptedException {
+		
 		waitTillPresence(factory.orderPage().cancelBtn);
 		click(factory.orderPage().cancelBtn);
 		
@@ -59,16 +69,16 @@ public class RetailOrderSteps extends CommonUtility {
 
 		Assert.assertEquals(string, factory.orderPage().confirmationMessage.getText());
 		logger.info("cancellation messager was displayed" + string);
-		click(factory.orderPage().orderLink);
-		click(factory.orderPage().buyAgain);
-		click(factory.orderPage().placeOrder);
+		
 	}
 
 @When("User click on Return Items button")
 public void userClickOnReturnItemsButton() {
-	waitTillPresence(factory.orderPage().returnButton);
+	click(factory.orderPage().hideDetails);
+	click(factory.orderPage().showDetail);
     click(factory.orderPage().returnButton);
     logger.info("user clicked on return Button");
+    
     
 }
 @When("User select the Return Reason {string}")
@@ -88,7 +98,9 @@ public void userSelectTheDropOffService(String string) {
      
 @When("User click on Return Order button")
 public void userClickOnReturnOrderButton() {
-  click(factory.orderPage().orderReturnSubmitBtn);
+
+
+	click(factory.orderPage().orderReturnSubmitBtn);
  logger.info("user clicked on return ");
 }
 @Then("a return message should be displayed {string}")
@@ -96,9 +108,7 @@ public void aReturnMessageShouldBeDisplayed(String string) {
 
 	Assert.assertEquals(string, factory.orderPage().returnMessage.getText());
 	logger.info("return message is displayed" + string);
-	click(factory.orderPage().orderLink);
-	click(factory.orderPage().buyAgain);
-	click(factory.orderPage().placeOrder);
+
 }
 @When("User click on Review button")
 public void userClickOnReviewButton() {
